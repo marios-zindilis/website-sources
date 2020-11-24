@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# all markdown files should have a 'first-published' line:
+grep --recursive --files-without-match --include '*.md' --exclude README.md 'first-published' *
+
+# all markdown files should have a 'title' line:
+grep --recursive --files-without-match --include '*.md' --exclude README.md 'title' *
+

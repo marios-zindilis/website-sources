@@ -1,0 +1,204 @@
+body {
+  padding-top: 56px; /* allow some space for the fixed nav */
+}
+
+#top-nav {
+  border-bottom: 1px solid #bdc3c7;  /* https://flatuicolors.com/palette/defo silver */
+}
+
+#site-footer {
+  border-top: 1px solid #bdc3c7;  /* https://flatuicolors.com/palette/defo silver */
+}
+
+.card {
+  border: none;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.btn-primary {
+  border-color: #2980b9;  /* https://flatuicolors.com/palette/defo belize-hole */
+  background-color: #2980b9;
+}
+
+a {
+  color: #2980b9;
+}
+
+.card-img, .card-img-top {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.card-footer {
+  background-color: #f5f5f5;
+  border-top: 1px solid #bdc3c7;  /* https://flatuicolors.com/palette/defo silver */
+  border-radius: 0;
+  padding: 0.5rem 1rem;
+}
+
+.card-body {
+  padding: 1rem;
+  background-color: #f5f5f5;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 8px 12px;
+}
+
+pre, code {
+  background-color: #fafafa;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  /* border-radius: 3px; */
+  font-size: 15px;
+}
+pre > code {
+  border: 0;
+  padding-right: 0;
+  padding-left: 0; }
+
+
+pre, .codehilite {
+margin-bottom: 15px; }
+
+.codehilite {
+background: #fff; }
+.codehiliteer-rouge .codehilite {
+  background: #eef; }
+.codehilite .c {
+  color: #998;
+  font-style: italic; }
+.codehilite .err {
+  color: #a61717;
+  background-color: #e3d2d2; }
+.codehilite .k {
+  font-weight: bold; }
+.codehilite .o {
+  font-weight: bold; }
+.codehilite .cm {
+  color: #998;
+  font-style: italic; }
+.codehilite .cp {
+  color: #999;
+  font-weight: bold; }
+.codehilite .c1 {
+  color: #998;
+  font-style: italic; }
+.codehilite .cs {
+  color: #999;
+  font-weight: bold;
+  font-style: italic; }
+.codehilite .gd {
+  color: #000;
+  background-color: #fdd; }
+.codehilite .gd .x {
+  color: #000;
+  background-color: #faa; }
+.codehilite .ge {
+  font-style: italic; }
+.codehilite .gr {
+  color: #a00; }
+.codehilite .gh {
+  color: #999; }
+.codehilite .gi {
+  color: #000;
+  background-color: #dfd; }
+.codehilite .gi .x {
+  color: #000;
+  background-color: #afa; }
+.codehilite .go {
+  color: #888; }
+.codehilite .gp {
+  color: #555; }
+.codehilite .gs {
+  font-weight: bold; }
+.codehilite .gu {
+  color: #aaa; }
+.codehilite .gt {
+  color: #a00; }
+.codehilite .kc {
+  font-weight: bold; }
+.codehilite .kd {
+  font-weight: bold; }
+.codehilite .kp {
+  font-weight: bold; }
+.codehilite .kr {
+  font-weight: bold; }
+.codehilite .kt {
+  color: #458;
+  font-weight: bold; }
+.codehilite .m {
+  color: #099; }
+.codehilite .s {
+  color: #d14; }
+.codehilite .na {
+  color: #008080; }
+.codehilite .nb {
+  color: #0086B3; }
+.codehilite .nc {
+  color: #458;
+  font-weight: bold; }
+.codehilite .no {
+  color: #008080; }
+.codehilite .ni {
+  color: #800080; }
+.codehilite .ne {
+  color: #900;
+  font-weight: bold; }
+.codehilite .nf {
+  color: #900;
+  font-weight: bold; }
+.codehilite .nn {
+  color: #555; }
+.codehilite .nt {
+  color: #000080; }
+.codehilite .nv {
+  color: #008080; }
+.codehilite .ow {
+  font-weight: bold; }
+.codehilite .w {
+  color: #bbb; }
+.codehilite .mf {
+  color: #099; }
+.codehilite .mh {
+  color: #099; }
+.codehilite .mi {
+  color: #099; }
+.codehilite .mo {
+  color: #099; }
+.codehilite .sb {
+  color: #d14; }
+.codehilite .sc {
+  color: #d14; }
+.codehilite .sd {
+  color: #d14; }
+.codehilite .s2 {
+  color: #d14; }
+.codehilite .se {
+  color: #d14; }
+.codehilite .sh {
+  color: #d14; }
+.codehilite .si {
+  color: #d14; }
+.codehilite .sx {
+  color: #d14; }
+.codehilite .sr {
+  color: #009926; }
+.codehilite .s1 {
+  color: #d14; }
+.codehilite .ss {
+  color: #990073; }
+.codehilite .bp {
+  color: #999; }
+.codehilite .vc {
+  color: #008080; }
+.codehilite .vg {
+  color: #008080; }
+.codehilite .vi {
+  color: #008080; }
+.codehilite .il {
+  color: #099; }
