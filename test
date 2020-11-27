@@ -1,8 +1,16 @@
 #!/usr/bin/env bash
 
 # all markdown files should have a 'first-published' line:
-grep --recursive --files-without-match --include '*.md' --exclude README.md 'first-published' *
+files_missing_date=$(grep --recursive --files-without-match --include '*.md' --exclude README.md 'first-published' *)
+for file_missing_date in $files_missing_date
+do
+    echo "$file_missing_date is missing the first-published date"
+done
 
 # all markdown files should have a 'title' line:
-grep --recursive --files-without-match --include '*.md' --exclude README.md 'title' *
+files_missing_title=$(grep --recursive --files-without-match --include '*.md' --exclude README.md 'title' *)
+for file_missing_title in $files_missing_title
+do
+    echo "$file_missing_title is missing the title"
+done
 
