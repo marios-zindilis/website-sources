@@ -4,6 +4,8 @@ language: el
 Description: Σημειώσεις για την εντολή write erase σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2014-01-24
+tags:
+- Cisco
 ---
 
 Η εντολή `write erase` διαγράφει την παραμετροποίηση εκκίνησης 

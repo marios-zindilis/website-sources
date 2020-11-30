@@ -177,5 +177,5 @@ methods for substring replacements than regular expressions.
 [perl-tabs-to-spaces]: http://www.nntp.perl.org/group/perl.macperl.anyperl/2002/03/msg154.html "Perl Tabs to Spaces"
 [bart-lateur]: http://search.cpan.org/~bartl/ "Bart Lateur"
 [regexr]: http://regexr.com/3c8o7 "Tabs to spaces regular expression"
-[prev]: /blog/2015/11/07/regex-in-python-markdown2-pt1.html "Regular expressions in python-markdown2 (part 1)"
+[prev]: /posts/regex-in-python-markdown2-pt1/
 [bz]: /static/etc/bzip2.c "bzip2.c Source Code"

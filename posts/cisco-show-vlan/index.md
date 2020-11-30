@@ -3,6 +3,8 @@ title: "show vlan (Cisco)"
 Description: Notes on the `show vlan` command on Cisco devices
 first-published: 2014-02-22
 Last Updated: 2014-02-24
+tags:
+- Cisco
 ---
 
 `show vlan` lists the Vlans and the ports on which each is configured. 

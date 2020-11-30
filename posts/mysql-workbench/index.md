@@ -2,6 +2,8 @@
 title: MySQL Workbench
 Description: Notes and links on MySQL Workbench
 first-published: 2014-03-08
+tags:
+- MySQL
 ---
 
 *   [MySQL Workbench Data Modeler](http://opensourcedba.wordpress.com/2014/03/06/mysql-workbench-data-modeler/)

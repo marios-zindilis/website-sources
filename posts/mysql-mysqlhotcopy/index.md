@@ -2,6 +2,8 @@
 title: mysqlhotcopy
 Description: Notes on mysqlhotcopy
 first-published: 2015-01-29
+tags:
+- MySQL
 ---
 
 **mysqlhotcopy** is a Perl script for backing up MySQL tables stored in either 

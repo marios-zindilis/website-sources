@@ -2,6 +2,9 @@
 title: Create S3 Bucket with Boto3
 description: How to use Boto3 to create an S3 bucket.
 first-published: 2017-08-06
+tags:
+- AWS S3
+- Boto3
 ---
 
 How to use Boto3 to create S3 buckets.
