@@ -3,6 +3,9 @@ title: Install Oracle Virtualbox on Linux Mint 17
 description: How to install the closed source version of Oracle Virtualbox on Linux Mint 17
 first-published: 2014-10-01
 last-modified: 2015-03-23
+tags:
+- VirtualBox
+- Linux Mint
 ---
 
 This is a quick tip on how to install the closed-source version of Virtualbox, currently at version 4.3.16, on a

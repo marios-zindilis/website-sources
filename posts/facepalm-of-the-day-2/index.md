@@ -3,6 +3,8 @@ title: Facepalm of the day 2
 Author: Marios Zindilis
 first-published: 2012-05-01
 last-modified: 2014-01-26
+tags:
+- cisco
 ---
 
 Cisco devices will commit a command that you typed in configuration 

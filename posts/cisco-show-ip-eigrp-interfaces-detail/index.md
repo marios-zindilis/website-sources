@@ -5,6 +5,8 @@ Description: Σημειώσεις για την εντολή show ip eigrp inter
 Author: Marios Zindilis
 first-published: 2012-04-28
 Last Updated: 2014-01-20
+tags:
+- cisco
 ---
 
 Εμφανίζει λεπτομέρειες για τις διεπαφές ενός δρομολογητή οι οποίες έχουν 
