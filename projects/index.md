@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 description: Marios Zindilis's Projects 
-First Published: 2015-04-18
+first-published: 2015-04-18
 Last Updated: 2017-04-15
 permalink: "/projects/"
 ---
