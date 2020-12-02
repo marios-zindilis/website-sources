@@ -9,11 +9,11 @@ tags:
 As user `zenoss` (or whatever user your Zenoss application runs as), run 
 `zendmd`, and:
 
-{% highlight python %}
+```python
 Device = find('My Awesome Server')
 Device.addDeviceGroup('My Wonderful Group')
 commit()
-{% endhighlight %}
+```
 
 This will make the device named `My Awesome Server` a member of the group named 
 `My Wonderful Group`. 

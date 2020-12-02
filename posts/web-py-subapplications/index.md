@@ -36,9 +36,9 @@ again. If you still get that error, and assuming your subapplications are in
 the same directory as your main application, you can try this ugly hack in the 
 very beginning of your main application script:
 
-{% highlight python %}
+```python
 import inspect
 import os
 import sys
 sys.path.append(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))))
-{% endhighlight %}
+```

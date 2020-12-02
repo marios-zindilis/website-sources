@@ -5,7 +5,7 @@ first-published: 2013-10-25
 Last Updated: 2013-12-10
 ---
 
-{% highlight python %}
+```python
 #!/usr/bin/env python
     
 import Globals
@@ -13,7 +13,7 @@ from Products.ZenUtils.ZenScriptBase import ZenScriptBase
 DMD = ZenScriptBase(connect=True).dmd
   
 Events = DMD.ZenEventManager.getEventList()
-{% endhighlight %}
+```
 
 Each `Event` in `Events` (iterable) offers:
 

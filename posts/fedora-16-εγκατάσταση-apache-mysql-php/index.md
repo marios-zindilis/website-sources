@@ -1,0 +1,142 @@
+---
+language: el
+title: Εγκατάσταση Apache, MySQL και PHP σε Fedora 16
+first-published: 2012-01-31
+---
+
+Βήματα για εγκατάσταση της στοίβας λογισμικού σε Fedora 16:
+
+Εγκατάσταση Apache 2
+--------------------
+
+Σε αντίθεση με προηγούμενες εκδόσεις, στο Fedora 16 δεν είναι προεγκατεστημένος ο Apache. Mπορείτε να τον εγκαταστήσετε με:
+
+{% highlight bash %}
+yum install httpd
+{% endhighlight %}
+
+Κατά την εγκατάσταση, δημιουργείται στο σύστημα ένας χρήστης με το όνομα 
+`apache`, και ένα group με το ίδιο όνομα. Το home directory του χρήστη 
+`apache` είναι το `/var/www`. Αυτές τις προεπιλογές μπορείτε να τις αλλάξετε στη συνέχεια.
+
+Για να ρυθμίσετε την αυτόματη εκκίνηση του Apache κατά την εκκίνηση του συστήματος:
+
+{% highlight bash %}
+systemctl enable http.service
+{% endhighlight %}
+
+Αυτό ορίζει ότι ο Apache θα ξεκινήσει αυτόματα την επόμενη φορά που θα ξεκινήσει το σύστημα. Προαιρετικά, για να δοκιμάσετε τη λειτουργία του εξυπηρετητή αυτή τη στιγμή, μπορείτε να τον εκκινήσετε χειροκίνητα με:
+
+{% highlight bash %}
+systemctl start httpd.service
+{% endhighlight %}
+
+Εγκατάσταση PHP 5
+-----------------
+
+Για την εγκατάσταση της PHP 5 απλά εκτελέστε:
+
+{% highlight bash %}
+yum install php
+{% endhighlight %}
+
+Αν θέλετε, μπορείτε σε αυτό το σημείο να επιβεβαιώσετε ότι λειτουργεί η 
+PHP, επανεκκινώντας τον Apache, και βάζωντας ένα αρχείο `.php` μέσα στο 
+`/var/www/html`, το οποίο θα περιέχει μόνο την γραμμή: 
+
+{% highlight php %}
+<?php phpinfo(); ?>
+{% endhighlight %}
+
+Αυτό το αρχείο μπορείτε να το δείτε μόνο σε έναν περιηγητή ιστού στον 
+ίδιο υπολογιστή στον οποίο κάνετε την εγκατάσταση, επειδή δεν έχετε 
+ανοίξει ακόμα την πρόσβαση από άλλους υπολογιστές.
+
+Εγκατάσταση MySQL 5
+-------------------
+
+Για την εγκατάσταση του εξυπηρετητή MySQL 5 εκτελέστε:
+
+{% highlight bash %}
+yum install mysql-server
+{% endhighlight %}
+
+Αμέσως μετά την εγκατάσταση, συνίσταται να εκκινήσετε την υπηρεσία 
+`mysqld` χειροκίνητα, και να εκτελέσετε το `mysql_secure_installation`, 
+το οποίο θα ορίσει ένα συνθηματικό για τον χρήστη root της MySQL, και 
+θα σας δώσει τη δυνατότητα να διαγράψετε μερικούς πίνακες και δεδομένα 
+που δημιουργούνται κατά την εγκατάσταση της βάσης, για δοκιμαστικό σκοπό:
+
+{% highlight bash %}
+systemctl start mysqld.service
+mysql_secure_installation
+{% endhighlight %}
+
+Στη συνέχεια, ρυθμίστε και την MySQL να ξεκινάει κατά την εκκίνηση του υπολογιστή:
+
+{% highlight bash %}
+systemctl enable mysqld.service
+{% endhighlight %}
+
+Τέλος, συνδέστε την PHP με την MySQL:
+
+{% highlight bash %}
+yum install php-mysql
+{% endhighlight %}
+
+Για να δουλέψουν όλα μαζί την **πρώτη** φορά, θα πρέπει να εκκινήσετε 
+χειροκίνητα τον `httpd` και την `mysqld` (αν δεν το έχετε ήδη κάνει σε 
+ένα από τα προηγούμενα βήματα), ή απλά να επανεκκινήσετε το σύστημα 
+(οπότε θα ξεκινήσουν από μόνα τους, αφού τα έχετε ορίσει με το `systemctl enable`).
+
+Άνοιγμα θύρας για τον εξυπηρετητή Web
+-------------------------------------
+
+Από προεπιλογή, το Fedora είναι ρυθμισμένο να μην δέχεται συνδέσεις στη 
+θύρα 80 από άλλους υπολογιστές. Με άλλα λόγια, θα μπορείτε να δείτε την 
+αρχική σελίδα του εξυπηρετητή αν περιηγηθείτε στη διεύθυνση `http://localhost/` 
+στον ίδιο τον υπολογιστή που τρέχει τον Apache, αλλά όχι σε οποιονδήποτε 
+άλλο υπολογιστή, ακόμα και στο τοπικό δίκτυο. Για να το πετύχετε αυτό, 
+θα πρέπει να ορίσετε έναν επιπλέον κανόνα στο `iptables`. Σημειώστε ότι 
+στη συνέχεια «ανοίγουμε» την πόρτα 80 στην οποία «ακούει» από προεπιλογή 
+ο εξυπηρετητής. Μπορείτε να το αλλάξετε αυτό στο αρχείο 
+`/etc/httpd/conf/httpd.conf` στη γραμμή `Listen 80`.
+
+Για να αλλάξετε τους κανόνες ανοίξτε το αρχείο [/etc/sysconfig/iptables](/docs/etc-sysconfig-iptables.el.html) 
+και προσθέστε την ακόλουθη γραμμή πριν από την εντολή `COMMIT`:
+
+{% highlight bash %}
+-A INPUT -m state --state NEW -m tcp -p tcp --dport 80 -j ACCEPT
+{% endhighlight %}
+
+Στη συνέχεια επανεκκινήστε το iptables με:
+
+{% highlight bash %}
+systemctl restart iptables.service
+{% endhighlight %}
+
+Αν και πάλι δεν μπορείτε να δείτε σελίδες στον εξυπηρετητή σας, ίσως 
+κάνατε κάποιο λάθος στο αρχείο ρυθμίσεων του `iptables`. Δοκιμάστε 
+προσωρινά να απενεργοποιήσετε το `iptables` με την εντολή `systemctl stop iptables.service` 
+και δοκιμάστε ξανά από άλλον υπολογιστή να δείτε κάποια σελίδα στον 
+εξυπηρετητή. Αν ανοίγει, τότε σημαίνει ότι το πρόβλημα είναι στις 
+ρυθμίσεις του `iptables` και θα πρέπει να το ψάξετε περισσότερο. Το 
+ακόλουθο παράδειγμα είναι από ένα αρχείο `iptables` το οποίο λειτουργεί 
+όπως πρέπει:
+
+{% highlight bash %}
+[root@docs sysconfig]# cat iptables
+# Firewall configuration written by system-config-firewall
+# Manual customization of this file is not recommended.
+*filter
+:INPUT ACCEPT [0:0]
+:FORWARD ACCEPT [0:0]
+:OUTPUT ACCEPT [0:0]
+-A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+-A INPUT -p icmp -j ACCEPT
+-A INPUT -i lo -j ACCEPT
+-A INPUT -m state --state NEW -m tcp -p tcp --dport 80 -j ACCEPT
+-A INPUT -j REJECT --reject-with icmp-host-prohibited
+-A FORWARD -j REJECT --reject-with icmp-host-prohibited
+COMMIT
+{% endhighlight %}
