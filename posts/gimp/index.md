@@ -5,3 +5,4 @@ first-published: 2014-03-05
 ---
 
 *   [GIMP Magazine](http://gimpmagazine.org/)
+

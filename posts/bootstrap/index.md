@@ -10,6 +10,8 @@ last-modified: 2018-06-23
 This is a list of free (an in beer) Dashboard or Admin templates build on Bootstrap4. Some are released under 
 well-known open source licenses (mostly MIT), and some have other restrictions, however all are gratis.
 
+<!-- read more -->
+
 ### Open Source ###
 
 #### MIT ####

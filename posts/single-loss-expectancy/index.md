@@ -1,7 +1,7 @@
 ---
 title: Single Loss Expectancy
 Description: Notes and links on Single Loss Expectancy
-First Published: 2015-09-20
+first-published: 2015-09-20
 ---
 
 In the context of **risk management**, the **single loss expectancy** is an 

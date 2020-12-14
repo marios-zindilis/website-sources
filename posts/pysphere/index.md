@@ -12,4 +12,5 @@ See also
 --------
 
 *   [PySphere Project Page](http://code.google.com/p/pysphere/)
-*   [Get Virtual Machines from VMware with PySphere](/docs/pysphere-get-virtual-machines.html)
+*   [Get Virtual Machines from VMware with PySphere](/posts/pysphere-get-virtual-machines/)
+

@@ -1,7 +1,7 @@
 ---
 title: Residual Risk
 Description: Notes and links on Residual Risk
-First Published: 2015-09-20
+first-published: 2015-09-20
 ---
 
 In the context of **risk management**, a **residual risk** is one that has 

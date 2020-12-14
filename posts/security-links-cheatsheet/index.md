@@ -1,7 +1,7 @@
 ---
 title: Security Links Cheatsheet
 Description: A collection of random links related to information security
-First Published: 2015-09-20
+first-published: 2015-09-20
 Last Updated: 2016-01-13
 ---
 

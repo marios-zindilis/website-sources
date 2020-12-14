@@ -15,3 +15,4 @@ Random notes on Vim:
 <!-- Links -->
 [tricks-with-vim]: http://www.itworld.com/article/2968352/linux/tricks-to-play-with-vim.html
 [persistent-undo]: http://amix.dk/blog/post/19548 "Persistent Undo with Vim"
+
