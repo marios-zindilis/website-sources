@@ -18,8 +18,7 @@ Scanning Tools
     SMB/CIFS Shares.
 *   [SoftPerfect NetworkScanner](https://www.softperfect.com/products/networkscanner/) for 
     IP reachability and a handful of well-known ports.
-*   Search engines: [shodan.io](https://www.shodan.io/), [scans.io](https://scans.io/), 
-    [censys.io](https://www.censys.io/).
+*   Search engines: [shodan.io](https://www.shodan.io/), [censys.io](https://www.censys.io/).
 
 Knowledge & Practice
 --------------------
@@ -28,10 +27,7 @@ Knowledge & Practice
 *   [Penetration Testing Practice Labs, Vulnerable Apps and Systems][6]
 *   [Wargames][7]
 *   [CTF365][]
-*   [InfosecLabs](http://www.thehonz.com/infoseclabs/)
 *   [PenTester Lab](https://pentesterlab.com/)
-*   [demo.testfire.net](http://demo.testfire.net/) is a web application that 
-    is intentionally vulnerable to SQLi on the login form.
 *   [The Matasano Crypto Challenges][]: a set of crypto challenges with 
     solutions in mainstream programming languages.
 *   [7 Free InfoSec Training Resources For IT Pros][]
@@ -64,7 +60,6 @@ Security Job Tips
 Certifications
 --------------
 
-*   [Non Vendor-Specific Information Security Certifications][5]
 *   [10 Security Certifications To Boost Your Career][8]
 
 <!-- Links -->
@@ -72,7 +67,6 @@ Certifications
 [2]: http://www.tripwire.com/state-of-security/security-awareness/the-top-10-highest-paying-jobs-in-information-security-part-2/
 [3]: http://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/landing-a-hands-on-security-gig-part-1/
 [4]: http://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/landing-a-hands-on-security-gig-part-2/
-[5]: https://www.concise-courses.com/security/certifications-industry-list/
 [6]: http://www.amanhardikar.com/mindmaps/Practice.html
 [7]: http://overthewire.org/wargames/
 [8]: http://www.darkreading.com/risk/10-security-certifications-to-boost-your-career/d/d-id/1322449?_mc=RSS_DR_EDT

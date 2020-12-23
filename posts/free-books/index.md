@@ -11,7 +11,6 @@ reference. Unfortunately, these links tend to break often.
 
 1.  [Introduction to the Command Line](http://dontfearthecommandline.blogspot.com/2010/09/free-ebook-introduction-to-command-line.html)
 2.  [You don't know JS](https://github.com/getify/You-Dont-Know-JS), a Kickstarter-born series of books on JavaScript.
-3.  [JNCIA Study Guide](https://www.juniper.net/us/en/training/certification/JNCIA_studyguide.pdf) (pdf)
 4.  [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 6.  [A Byte of Python 3](http://swaroopch.com/notes/python/)
 7.  [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-ebook/)

@@ -41,9 +41,3 @@ Run `ip route`. Example from the same machine as above:
     169.254.0.0/16 dev wlan0  scope link  metric 1000 
     192.168.88.0/24 dev wlan0  proto kernel  scope link  src 192.168.88.253  metric 9
 
-See Also
---------
-
-*   [Man Page for `netstat`](/docs/man/netstat.8.html)
-*   [Man Page for `route`](/docs/man/route.8.html)
-*   [Man Page for `ip`](/docs/man/ip.7.html)

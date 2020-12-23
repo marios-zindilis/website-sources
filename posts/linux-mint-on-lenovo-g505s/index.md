@@ -139,7 +139,7 @@ so you will need to download and install the latest version from AMD's
 website. At the time of this writing, the latest stable driver version 
 is 13.4. 
 
-1.  Download the drivers from [AMD's Website](http://support.amd.com/us/gpudownload/linux/Pages/radeon_linux.aspx "AMD Drivers for Linux")
+1.  Download the drivers from AMD's Website.
 
 2.  Install dependencies:
 

@@ -36,8 +36,7 @@ specification as:
 
     CustomLog logs/example.com-access_log example.
 
-The `%` fields of `strftime` are listed in the [man page for 
-`strftime`](/docs/man/library-calls/strftime.html)
+The `%` fields of `strftime` are listed in the man page for `strftime`.
 
 <hr>
 

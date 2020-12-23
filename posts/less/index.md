@@ -37,7 +37,3 @@ Exiting
 
 You can exit `less` with the **q** key, or with **Ctrl+C**.
 
-See Also
---------
-
-*   [Man Page for `less`](/docs/man/less.1.html)
