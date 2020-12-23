@@ -24,4 +24,4 @@ The Cisco equivalent of the `set system host-name` command is:
 See also
 --------
 
-*    [`hostname`](/docs/cisco/hostname.html), the Cisco equivalent
+*    [`hostname`](/posts/cisco-hostname/), the Cisco equivalent

@@ -13,4 +13,4 @@ connections to VTY lines.
 See Also
 --------
 
-*   [banner login](/docs/cisco/banner-login.html)
+*   [banner login](/posts/cisco/banner-login/)

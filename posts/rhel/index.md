@@ -16,7 +16,7 @@ Releases
 		<tr>
 			<td>7.0 Beta</td>
 			<td><a href="https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/7-Beta/html-single/7.0_Release_Notes/index.html">Release Notes</a></td>
-			<td><a href="ftp://ftp.redhat.com/redhat/rhel/beta/7/">Download</a></td>
+			<td>ftp.redhat.com/redhat/rhel/beta/7/</td>
 		</tr>
 	</tbody>
 </table>
@@ -24,6 +24,6 @@ Releases
 See Also
 --------
 
-*   [Notes and Links for RHCSA](/docs/rhcsa.html)
-*   [Install packages from RHEL DVD with yum](/docs/rhel-yum-install-from-dvd.html)
-*   [Set up an HTTP Repository from RHEL DVD](/docs/rhel-setup-http-repository.html)
+*   [Notes and Links for RHCSA](/posts/rhcsa/)
+*   [Install packages from RHEL DVD with yum](/posts/rhel-yum-install-from-dvd/)
+*   [Set up an HTTP Repository from RHEL DVD](/posts/rhel-setup-http-repository/)

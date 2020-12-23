@@ -17,7 +17,7 @@ Web-based
 
 *   [Reveal.js](http://lab.hakim.se/reveal-js/#/)
 *   [Bespoke.js](http://markdalgleish.com/projects/bespoke.js/)
-*   [Impress.js](https://bartaz.github.io/impress.js/)
+*   [Impress.js](https://impress.js.org/)
 
 See also
 --------

@@ -25,5 +25,5 @@ first-published: 2015-02-28
     [Security Week (#2)](http://www.securityweek.com/busting-ghost-security-vulnerability-haunting-linux-systems), 
     [Yahoo News](http://news.yahoo.com/linux-makers-release-patch-thwart-ghost-cyber-threat-220404678--finance.html),
     [TechRepublic](http://www.techrepublic.com/article/the-ghost-security-hole-perfectly-illustrates-the-efficiency-of-open-source/).
-*   [Glibc Adventures: The Forgotten Chunks](http://contextis.co.uk/documents/120/Glibc_Adventures-The_Forgotten_Chunks_1.pdf)
+*   [Glibc Adventures: The Forgotten Chunks](https://www.contextis.com/en/resources/white-papers/glibc-adventures-the-forgotten-chunks)
 *   ['Ghost' Not So Scary After All](http://www.darkreading.com/application-security/ghost-not-so-scary-after-all/d/d-id/1318844?_mc=RSS_DR_EDT)

@@ -24,9 +24,9 @@ Books
 See also
 --------
 
-*   [Notes and Links for RHEL](/docs/rhel.html)
+*   [Notes and Links for RHEL](/posts/rhel/)
 *   [RHCSA study guide ](http://www.pantz.org/software/linux/rhcsa_study_guide.html)
 *   [RHCSA & RHCE Free available resources](http://www.certdepot.net/rhcsa-rhce-free-available-resources/)
-*   [Install packages from RHEL DVD with yum](/docs/rhel-yum-install-from-dvd.html)
-*   [Set up an HTTP Repository from RHEL DVD](/docs/rhel-setup-http-repository.html)
-*   [Set up an FTP Repository from RHEL DVD](/docs/rhel-setup-ftp-repository.html)
+*   [Install packages from RHEL DVD with yum](/posts/rhel-yum-install-from-dvd/)
+*   [Set up an HTTP Repository from RHEL DVD](/[psts]/rhel-setup-http-repository/)
+*   [Set up an FTP Repository from RHEL DVD](/posts/rhel-setup-ftp-repository/)

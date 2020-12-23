@@ -14,4 +14,4 @@ older hardware that cannot encrypt the enable password.
 See also
 --------
 
-*   <a href='/docs/cisco/enable-secret.html'><code>enable secret</code></a>
+*   <a href='/posts/cisco-enable-secret/'><code>enable secret</code></a>

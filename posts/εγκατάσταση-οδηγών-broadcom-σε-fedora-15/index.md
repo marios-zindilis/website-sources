@@ -16,4 +16,7 @@ yum install b43-fwcutter wget</pre></li>
 <li>Μπείτε στον φάκελο:<pre>cd broadcom-wl-4.150.10.5/driver</pre></li>
 <li>Τέλος, με το b43-fwcutter θα πάρετε τα τμήματα του οδηγού που χρειάζεται το Fedora 15 και θα τα εγκαταστήσετε στο <code>/lib/firmware</code>:<pre>b43-fwcutter -w /lib/firmware/ wl_apsta_mimo.o</pre></li>
 </ol>
-Αυτό ήτανε, αν όλα έχουν λειτουργήσει σωστά, θα μπορείτε να δείτε τα διαθέσιμα ασύρματα δίκτυα που βρίσκονται κοντά σας. Αν δεν έχουν όλα λειτουργήσει σωστά τότε… διαβάστε την τεκμηρίωση, ξεκινώντας από <a href="http://linuxwireless.org/en/users/Drivers/b43#device_firmware_installation">εδώ</a>.
+
+Αυτό ήτανε, αν όλα έχουν λειτουργήσει σωστά, θα μπορείτε να δείτε τα διαθέσιμα ασύρματα δίκτυα που βρίσκονται κοντά
+σας. Αν δεν έχουν όλα λειτουργήσει σωστά τότε… διαβάστε την τεκμηρίωση, ξεκινώντας από
+<a href="https://web.archive.org/web/20110510161723/http://linuxwireless.org/en/users/Drivers/b43">εδώ</a>.

@@ -119,5 +119,5 @@ See Also
 --------
 
 *   [How to Setup Logstash on Linux with ElasticSearch, Redis, Nginx](http://www.thegeekstuff.com/2014/12/logstash-setup/)
-*   [ELKs in LateRooms](http://engineering.laterooms.com/elks-in-laterooms/)
+*   [ELKs in LateRooms](https://web.archive.org/web/20150422053556/http://engineering.laterooms.com/elks-in-laterooms/)
 *   [What are good open-source log monitoring tools on Linux](http://xmodulo.com/open-source-log-monitoring-tools-linux.html)

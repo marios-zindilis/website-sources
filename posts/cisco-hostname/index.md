@@ -26,4 +26,4 @@ The Juniper equivalent of the `hostname` command is:
 See also
 --------
 
-*   [`set system host-name`](/docs/juniper/set-system-host-name.html), the Juniper equivalent
+*   [`set system host-name`](/posts/juniper-set-system-host-name/), the Juniper equivalent

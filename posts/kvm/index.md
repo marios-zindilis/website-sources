@@ -15,4 +15,4 @@ Links
 See also
 --------
 
-*   [virsh](/docs/virsh.html)
+*   [virsh](/posts/virsh/)

@@ -16,4 +16,5 @@ first-published: 2015-07-01
 
 <!-- Links -->
 [1]: https://github.com/skx/sysadmin-util/blob/master/ssl-expiry-date "ssl-expiry-date"
-[2]: http://www.linuxvoice.com/masterclass-secure-your-website-with-ssl-encryption/ "Masterclass: Secure your website with SSL encryption"
+[2]: https://web.archive.org/web/20150725001608/https://www.linuxvoice.com/masterclass-secure-your-website-with-ssl-encryption/ "Masterclass: Secure your website with SSL encryption"
+

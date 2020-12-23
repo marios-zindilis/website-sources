@@ -6,7 +6,7 @@ first-published: 2013-12-19
 Specs
 -----
 
-*   [Datasheet](http://h18006.www1.hp.com/storage/pdfs/4AA4-6608ENW.pdf)
+*   [Datasheet](https://web.archive.org/web/20140902163720/http://h18006.www1.hp.com/storage/pdfs/4AA4-6608ENW.pdf)
 
 Reviews
 -------

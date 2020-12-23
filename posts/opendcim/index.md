@@ -13,4 +13,4 @@ See also
 *   [openDCIM Website](http://www.opendcim.org)
 *   [openDCIM on GitHub](https://github.com/samilliken/openDCIM)
 *   [openDCIM Video Tutorials on YouTube](http://www.youtube.com/user/openDCIM/videos)
-*   [openDCIM 2.1 Installation on Centos 6](/docs/centos-6-install-opendcim-2.1.html)
+*   [openDCIM 2.1 Installation on Centos 6](/posts/centos-6-install-opendcim-2-1/)

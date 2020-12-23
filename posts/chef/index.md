@@ -10,4 +10,4 @@ last-modified: 2014-11-01
 
 <!-- Links -->
 [1]: http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308 "Review: Puppet vs. Chef vs. Ansible vs. Salt"
-[2]: https://www.getchef.com/blog/2014/09/08/there-is-one-chef-server-and-it-is-open-source/ "There is one Chef Server, and it is Open Source"
+[2]: https://web.archive.org/web/20140911044700/https://www.getchef.com/blog/2014/09/08/there-is-one-chef-server-and-it-is-open-source/ "There is one Chef Server, and it is Open Source"

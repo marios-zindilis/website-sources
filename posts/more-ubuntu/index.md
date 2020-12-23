@@ -3,16 +3,14 @@ title: More Ubuntu
 first-published: 2011-02-26
 ---
 
-I 've been doing some Ubuntu-related reading, and I have to say my faith is 
-shaken. I have been a user of Ubuntu for many versions now, my main point 
-being that the defaults were just right for me, so I could just 
-start using my system post-installation. It's those defaults that are 
-now changing in bulk.
+I 've been doing some Ubuntu-related reading, and I have to say my faith is shaken. I have been a user of Ubuntu for
+many versions now, my main point being that the defaults were just right for me, so I could just start using my system
+post-installation. It's those defaults that are now changing in bulk.
 
 *   [Banshee Amazon Store disabled in Ubuntu 11.04 by Canonical](http://www.networkworld.com/community/banshee-amazon-store-disabled-by-canonical-in-ubuntu) (deprecated)
 *   [Canonical calls original proposal a "mistake" and overrides Banshee team's decision](http://www.networkworld.com/community/canonical-alters-banshee-agreement)
 *   [Banshee developer's Gabriel Burt's blog](http://gburt.blogspot.com/)
-*   [A smart cash flow diagram](http://ndftz.com/nickelanddime.png)
+*   [A smart cash flow diagram](https://web.archive.org/web/20140421103714/http://ndftz.com/nickelanddime.png)
 *   [Canonical slips their own Affiliate ID in Firefox also?](http://bazaar.launchpad.net/~mozillateam/firefox/firefox-4.0.head/view/head:/debian/patches/ubuntu-codes-amazon.patch)
 
 I suppose there are two ways to see this. On one hand, Canonical is 

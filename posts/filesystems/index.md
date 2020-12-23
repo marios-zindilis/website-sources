@@ -12,9 +12,9 @@ This is a random list of filesystems.
 *   ext2
 *   ext3
 *   ext4
-*   [GlusterFS](/docs/glusterfs.html)
+*   [GlusterFS](/posts/glusterfs/)
 *   MooseFS
 *   Ceph
 *   Lustre
 *   Fraunhofer Parallel Cluster File System (FhGFS)
-*   [DRBD](/docs/drbd.html)
+*   [DRBD](/posts/drbd/)

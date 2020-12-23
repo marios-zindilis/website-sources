@@ -5,10 +5,9 @@ first-published: 2012-02-08
 last-modified: 2015-08-10
 ---
 
-**Cream** is an advanced text editor, created on top of [Vim](/docs/vim.html), 
-and works on Windows, Linux and FreeBSD. As of the latest update of this 
-document (see bottom of page for date), the [code commits][cream-cvs] suggest 
-that the project has been abandoned.
+**Cream** is an advanced text editor, created on top of [Vim](/posts/vim/), and works on Windows, Linux and FreeBSD. As
+of the latest update of this document (see bottom of page for date), the [code commits][cream-cvs] suggest that the
+project has been abandoned.
 
 See Also
 --------

@@ -13,7 +13,7 @@ last-modified: 2016-05-08
     3.  [10 Tips to Push Your Git Skills to the Next Level](http://www.sitepoint.com/10-tips-git-next-level/)
 *   [Contribute to an open source project on GitHub][contribute]
 
-  [contribute]: /docs/contribute-on-github.html "Contribute to an open source project on GitHub"
+  [contribute]: /posts/contribute-on-github/ "Contribute to an open source project on GitHub"
 
 ### Self-hosted Git Services ###
 
