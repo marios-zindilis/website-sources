@@ -151,5 +151,5 @@ ng serve
 
 *   [Learn Angular - Full Tutorial Course][40]
 
-[40]: https://www.freecodecamp.org/news/beaucarnes/angular-tutorial-course--OHbjepWjQ
+[40]: https://www.freecodecamp.org/news/angular-tutorial-course/
   "Learn Angular - Full Tutorial Course"

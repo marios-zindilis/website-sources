@@ -8,7 +8,7 @@ Last Updated: 2016-01-13
 Security-oriented Linux Distributions
 -------------------------------------
 
-*   [Security Onion](securityonion.net)
+*   [Security Onion](http://securityonion.net)
     *   [Security Onion: A Linux Distro For IDS, NSM, And Log Management](http://www.unixmen.com/security-onion-linux-distro-ids-nsm-log-management/)
 
 Scanning Tools

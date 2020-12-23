@@ -58,7 +58,7 @@ well-known open source licenses (mostly MIT), and some have other restrictions, 
 * [Bootstrapious Bootstrap 4 Dark Admin](https://bootstrapious.com/p/bootstrap-4-dark-admin)(Freeware/Freemium)
 * [Core UI](https://coreui.io/) (License: MIT with additional restrictions, no derivatives)
 * [Able Pro](https://codedthemes.com/item/able-pro-lite-free-admin-template/) (Freeware/Freemium)
-* [Pike Admin](https://www.pikeadmin.com/) (Freeware/Freemium)
+* [Pike Admin](https://github.com/NuraDev/PikeAdmin-Free-Bootstrap-Admin-Template) (Freeware/Freemium)
 * [Bootstrap Zero Bootstrap 4 Admin Dashboard](https://www.bootstrapzero.com/bootstrap-template/bootstrap-4-admin-dashboard) (Freeware/Freemium)
 * [Monster Admin Lite](https://wrappixel.com/templates/monster-admin-lite/) (Freeware/Freemium)
 * [Medialoot Bootstrap 4 Admin Dashboard Template](https://medialoot.com/item/bootstrap-4-admin-dashboard-template/) (Freeware/Freemium)

@@ -58,7 +58,7 @@ static website is archived at [Projects / Grokking Tech][7].
 [2]: https://github.com/marios-zindilis/musicbrainz-django-models
   "MusicBrainz Django Models on GitHub"
 [3]: https://github.com/marios-zindilis/zalza "Zalza GitHub Repository"
-[4]: /docs/backuppc.html "BackupPC Docs"
+[4]: /posts/backuppc/ "BackupPC Docs"
 [5]: https://github.com/marios-zindilis/backuppc-archive/
   "BackupPC Archive GitHub Repository"
 [6]: https://github.com/marios-zindilis/Briki-WP-Registration-Whitelist
