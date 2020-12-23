@@ -3,6 +3,8 @@ title: "Get all device Serial Numbers from ZenDMD in Zenoss"
 description: "How to get all devices' serial numbers from Zenoss with ZenDMD"
 first-published: 2013-11-12
 last-updated: 2014-01-15
+tags:
+- Zenoss
 ---
 
 To get a list of devices in Zenoss that have a **Serial Number** 

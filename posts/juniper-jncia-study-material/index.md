@@ -26,7 +26,6 @@ See Also
 --------
 
 *   [The JNCIA-Junos Objectives](https://www.juniper.net/us/en/training/certification/resources_jnciajunos.html)
-*   [Juniper JNCIA-Junos - Introduction](http://www.gns3.net/labs/juniper/jncia-junos/introduction-to-the-certification/)
 *   [J-Net Community Forums](http://forums.juniper.net/)
 *   The [Junosphere](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=5735), and 
     [The Junosphere Experience](https://markom.info/2012/02/the-junosphere-experience-part-one-getting-access/).

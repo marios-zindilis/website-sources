@@ -13,5 +13,5 @@ See also
 --------
 
 *   [Motion Project Website](http://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome)
-*   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
-*   [Kmotion, a web interface for Motion](/docs/kmotion.html)
+*   [Install Motion on CentOS 6](/posts/centos-6-install-motion/)
+*   [Kmotion, a web interface for Motion](/posts/kmotion/)

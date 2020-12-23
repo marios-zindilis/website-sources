@@ -9,4 +9,4 @@ first-published: 2013-12-03
 See also
 --------
 
-*   [Motion](/docs/motion.html)
+*   [Motion](/posts/motion/)

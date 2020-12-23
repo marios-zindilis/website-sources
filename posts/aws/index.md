@@ -5,9 +5,8 @@ first-published: 2016-12-16
 
 ## Non-Certification Training ##
 
-*   [CBT Nuggets - AWS: Core Real-World Functions][1] (2012 - I think this one
-    was called "AWS Foundations" earlier)
-*   [CBT Nuggets - AWS: Technical Essentials][2] (2016)
+The [AWS Category of CBT Nuggets](https://www.cbtnuggets.com/it-training/aws) has both certification and
+non-certification training material.
 
 ## Certifications ##
 
@@ -74,8 +73,6 @@ Tests your technical expertise in deployment, management, and operations on the
 AWS platform. Meant for anyone with one or more years of hands-on experience 
 operating AWS-based applications.
 
-*   [CBT Nuggets: AWS: Certified SysOps Administrator - Associate Level][4] (2015)
-
 ### AWS Certified DevOps Engineer - Professional ###
 
 Tests your technical expertise in provisioning, operating, and managing 
@@ -112,14 +109,8 @@ services to derive value from data. The exam is for individuals who perform
 complex Big Data analyses.
 
 <!-- Links -->
-[1]: https://www.cbtnuggets.com/it-training/amazon-web-services-aws-foundations
-  "CBT Nuggets - AWS: Core Real-World Functions"
-[2]: https://www.cbtnuggets.com/it-training/aws-technical-essentials
-  "CBT Nuggets - AWS: Technical Essentials"
 [3]: https://www.cbtnuggets.com/it-training/amazon-aws-certified-solutions-architect-architecting-for-aws
   "CBT Nuggets - AWS: Certified Solutions Architect - Associate"
-[4]: https://www.cbtnuggets.com/it-training/amazon-aws-certified-sysops-administrator-associate
-  "CBT Nuggets - AWS: Certified SysOps Administrator - Associate Level"
 [5]: https://www.udemy.com/aws-certified-solutions-architect-associate/
   "udemy -  AWS Certified Solutions Architect - Associate 2016"
 [6]: http://cantrill.io/certification/aws/2016/03/27/how-to-pass-AWS-certifications.html

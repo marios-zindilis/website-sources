@@ -20,12 +20,10 @@ looking at the documentation is terrifying...
 
 <!-- read more -->
 
-I did some experimenting with controlling VLC from Python using VLC's
-[Remote Control Interface][RCI] (see [this][this] as well), and wrote a small 
+I experimented with controlling VLC from Python using VLC's [Remote Control Interface][RCI], and wrote a small
 proof-of-concept code snippet. Here's how to use it:
 
   [RCI]: https://wiki.videolan.org/documentation:modules/rc/
-  [this]: http://getluky.net/2006/04/19/vlcs-awesome-rc-interface/
 
 ```python
 from vlc import VLC

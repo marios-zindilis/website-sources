@@ -3,6 +3,8 @@ title: Get Devices from Zenoss with ZenDMD
 description: How to get devices from Zenoss with ZenDMD
 first-published: 2013-10-25
 Last Updated: 2014-08-29
+tags:
+- Zenoss
 ---
 
 A simple example:

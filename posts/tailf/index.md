@@ -13,4 +13,4 @@ file is not updated.
 See also
 --------
 
-*   [`tail`](/docs/tail.html)
+*   [`tail`](/posts/tail/)

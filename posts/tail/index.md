@@ -10,5 +10,4 @@ first-published: 2014-04-05
 See also
 --------
 
-*   [`tailf`](/docs/tailf.html): a utility that does the same as `tail -f`, but 
-    consumes less resources on the system.
+*   [`tailf`](/posts/tailf/): a utility that does the same as `tail -f`, but consumes less resources on the system.

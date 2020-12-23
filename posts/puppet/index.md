@@ -10,8 +10,3 @@ last-modified: 2015-01-15
 *   [Hosting with Puppet - Design](http://sysphere.org/~anrxc/j/archives/2013/06/24/hosting_with_puppet_-_design/index.html)
 *   [Installing Puppet Master and Agent in RHEL/CentOS 7/6/5](http://www.tecmint.com/install-puppet-in-centos/)
 *   [Puppet Infrastructure 2015](http://terrarum.net/blog/puppet-infrastructure-2015.html)
-
-Puppet-related
---------------
-
-*   [Using Foreman, an Opensource Frontend for Puppet](http://techarena51.com/index.php/using-foreman-opensource-frontend-puppet/)

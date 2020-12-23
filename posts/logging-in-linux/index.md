@@ -80,7 +80,7 @@ Non-Free or Closed Source or Commercial Log Analysis Software
     with a standalone web server.
 *   [HP ArcSight Logger](http://www8.hp.com/us/en/software-solutions/software.html?compURI=1314386) 
     is a log analysis commercial solution by HP.
-*   [LogScape](http://www.logscape.com/) is a Linux based log analysis 
+*   [LogScape](http://logscape.com/) is a Linux based log analysis 
     and indexing tool, with a free basic version.
 *   [Sumo Logic](https://www.sumologic.com/) cloud based log management 
     and analytics. Free version works for up to 500 MBytes of data per 
@@ -112,8 +112,6 @@ For Windows
     that run its agent.
 *   [LogFaces](http://www.moonlit-software.com/logfaces/web/index.php) 
     is a syslog server for Windows.
-*   [Aonaware Syslog Server](http://www.aonaware.com/syslog.htm) is also 
-    a syslog server, both free and open source.
 *   [Log Parser](http://www.microsoft.com/en-us/download/details.aspx?id=24659) 
     is a search tool for logs and other data sources.
 

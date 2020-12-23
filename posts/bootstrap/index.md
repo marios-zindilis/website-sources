@@ -2,13 +2,14 @@
 title: Bootstrap
 Description: Notes and links on Bootstrap
 first-published: 2018-04-01
-last-modified: 2018-06-23
+last-modified: 2020-12-23
 ---
 
 ## Dashboard Templates ##
 
 This is a list of free (an in beer) Dashboard or Admin templates build on Bootstrap4. Some are released under 
-well-known open source licenses (mostly MIT), and some have other restrictions, however all are gratis.
+well-known open source licenses (mostly MIT), and some have other restrictions, however all are gratis. These links
+tend to break over time, but often there are mirrors of the themes elsewhere, at least for the open source ones.
 
 <!-- read more -->
 
@@ -19,8 +20,9 @@ well-known open source licenses (mostly MIT), and some have other restrictions, 
 * [Admin4B](https://github.com/marxjmoura/admin4b)
 * [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard)
 * [AdminLTE](https://github.com/colorlibhq/AdminLTE)
+* [Basix](https://github.com/jeweltheme/basix-admin)
 * [ArchitectUI](https://github.com/DashboardPack/architectui-html-theme-free)
-* [Carbon](https://github.com/mohd-isa/carbon)
+* [Carbon](https://github.com/seguce92/carbon)
 * [Clean](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme)
 * [CoolAdmin](https://github.com/puikinsh/CoolAdmin)
 * [DeskApp](https://github.com/dropways/deskapp)
@@ -33,7 +35,7 @@ well-known open source licenses (mostly MIT), and some have other restrictions, 
 * [Modular Admin](https://modularcode.io/modular-admin-html/)
 * [NGX Admin](https://github.com/akveo/ngx-admin)
 * [Notika](https://github.com/puikinsh/notika)
-* [Octopus](https://github.com/puikinsh/octopus)
+* [Octopus](https://github.com/icdcom/octopus)
 * [Paper Admin](https://github.com/mohdrashid/PaperAdmin)
 * [Paper Dashboard 2](https://github.com/creativetimofficial/paper-dashboard)
 * [Purple](https://www.bootstrapdash.com/product/purple-free-admin-template/)
@@ -65,7 +67,6 @@ well-known open source licenses (mostly MIT), and some have other restrictions, 
 * [AdminWrap Lite](https://wrappixel.com/templates/adminwrap-lite/) (Freeware/Freemium)
 * [AdminPro Lite](https://wrappixel.com/templates/adminpro-lite/) (Freeware/Freemium)
 * [Now UI](https://www.creative-tim.com/product/now-ui-dashboard) (Freeware/Freemium)
-* [Basix](https://themefisher.com/products/basix-admin-free-vuejs-bootstrap-4-admin-dashboard-template/) (Freeware/Freemium)
 * [MaterialPro Lite](https://wrappixel.com/templates/materialpro-lite/) (Freeware/Freemium)
 * [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard) (Freeware/Freemium)
 
