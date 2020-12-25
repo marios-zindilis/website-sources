@@ -12,7 +12,7 @@ first-published: 2012-04-04
 
 Η ρύθμιση του XFree86 4 μπορεί να γίνει είτε με επεξεργασία του αρχείου ρυθμίσεων, είτε με βοηθητικά εργαλεία, όπως το
 `XFree86` που εγκαθίσταται μαζί με τον εξυπηρετητή, το [system-config-display](/posts/system-config-display/) (σε
-συστήματα Red Hat, Fedora ή CentOS) και το [xf86cfg](/posts/xf86cfg/).
+συστήματα Red Hat, Fedora ή CentOS) και το `xf86cfg`.
 
 ## Αρχείο ρυθμίσεων ##
 

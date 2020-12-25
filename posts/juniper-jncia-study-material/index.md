@@ -15,7 +15,7 @@ Certification is achieved by passing one exam, either JN0-101 (being retired on 
 2014-02-28) or JN0-102 (available to take from 2014-01-31).
 
 1.  [Juniper's Certification Website](https://www.juniper.net/us/en/training/certification/)
-2.  [JNCIA Study Guide](https://www.juniper.net/us/en/training/certification/JNCIA_studyguide.pdf), free from Juniper's website.
+2.  [JNCIA Study Guide](https://web.archive.org/web/20140817123609/https://www.juniper.net/us/en/training/certification/JNCIA_studyguide.pdf), free from Juniper's website.
 3.  JNCIA-Junos Study Guide Part 1 and Part 2, free to download from 
     [Juniper's FastTrack Website](https://learningportal.juniper.net/juniper/user_fasttrack_home.aspx) 
     (requires free registration, after the registration find the "Study 

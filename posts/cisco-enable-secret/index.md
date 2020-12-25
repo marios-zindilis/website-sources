@@ -12,4 +12,4 @@ configuration as an MD5 hash, as opposed to clear text.
 See also
 --------
 
-*    <a href='/docs/cisco/enable-password.html'><code>enable password</code></a>
+*    <a href='/posts/cisco-enable-password/'><code>enable password</code></a>

@@ -4,5 +4,4 @@ Description: Links and notes on the GIMP Image Editor
 first-published: 2014-03-05
 ---
 
-*   [GIMP Magazine](http://gimpmagazine.org/)
-
+*   Old GIMP Magazine issues can be found at: https://issuu.com/gimpmagazine

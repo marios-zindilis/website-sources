@@ -13,8 +13,7 @@ first-published: 2012-04-04
 ## Ρύθμιση ##
 
 Η ρύθμιση του XFree86 3 μπορεί να γίνει είτε με επεξεργασία του αρχείου ρυθμίσεων, είτε με χρήση βοηθητικών εργαλείων,
-όπως τα [xf86config](/posts/xf86config.), [Xconfigurator](/posts/xconfigurator/) και
-[XF86Setup](/posts/xf86setup/).
+όπως τα [xf86config](/posts/xf86config/), `Xconfigurator`και `XF86Setup`.
 
 ## Αρχείο ρυθμίσεων ##
 

@@ -5,29 +5,26 @@ first-published: 2013-11-06
 last-modified: 2013-11-23
 ---
 
-To have partitions larger than 2 TeraBytes, you need to create a GPT 
-disk, as opposed to an MBR one. This, however, is not possible during 
-the installation of CentOS, so you might need to handle it either 
-before the installation (e.g: with booting a Live CD that supports GPT 
-and creating the partition table before the installation) or after the 
+To have partitions larger than 2 TeraBytes, you need to create a GPT disk, as opposed to an MBR one. This, however, is
+not possible during the installation of CentOS, so you might need to handle it either before the installation (e.g:
+with booting a Live CD that supports GPT and creating the partition table before the installation) or after the
 installation, with the use of `gdisk`.
 
-Using `gdisk` is actually very easy, although you should keep in mind 
-that there is no guarrantee that your data will be safe.
+Using `gdisk` is actually very easy, although you should keep in mind that there is no guarrantee that your data will
+be safe.
 
-For this example, installation of CentOS 6.2 was done on a system with 
-one 3 TB disk. During the installation, the following partitions were 
-created:
+For this example, installation of CentOS 6.2 was done on a system with one 3 TB disk. During the installation, the
+following partitions were created:
 
-    /dev/sda1  0.5 GB /boot
-    /dev/sda2 13.0 GB LVM PV (4GB swap, 9GB /root)
+```
+/dev/sda1  0.5 GB /boot
+/dev/sda2 13.0 GB LVM PV (4GB swap, 9GB /root)
+```
 
 This left almost all of the 3 TB on the disk available.
 
-After the installation is done, download `gdisk` for CentOS 6 from 
-[OpenSUSE Build Service](http://download.opensuse.org/repositories/home:/srs5694/CentOS_CentOS-6/x86_64/). 
-You can also find more versions of `gdisk` at [rodsbooks.com](http://www.rodsbooks.com/gdisk/download.html).
-Example download:
+After the installation is done, download `gdisk` for CentOS 6 from OpenSUSE Build Service. You can also find more
+versions of `gdisk` at [rodsbooks.com](http://www.rodsbooks.com/gdisk/download.html). Example download:
 
     wget http://download.opensuse.org/repositories/home:/srs5694/CentOS_CentOS-6/x86_64/gdisk-0.8.8-133.1.x86_64.rpm
 

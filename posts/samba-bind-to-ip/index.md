@@ -29,6 +29,6 @@ For further information, see the `man` page for `smb.conf`.
 See also
 --------
 
-*   The [Samba port usage](http://wiki.samba.org/index.php/Samba_port_usage)
+*   The [Samba port usage](https://web.archive.org/web/20140405064123/http://wiki.samba.org/index.php/Samba_port_usage)
     article in the Samba Wiki explains a bit more on why it might be 
     necessary to have the server listening on the `lo` interface.

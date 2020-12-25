@@ -28,5 +28,5 @@ See also
 *   [RHCSA study guide ](http://www.pantz.org/software/linux/rhcsa_study_guide.html)
 *   [RHCSA & RHCE Free available resources](http://www.certdepot.net/rhcsa-rhce-free-available-resources/)
 *   [Install packages from RHEL DVD with yum](/posts/rhel-yum-install-from-dvd/)
-*   [Set up an HTTP Repository from RHEL DVD](/[psts]/rhel-setup-http-repository/)
+*   [Set up an HTTP Repository from RHEL DVD](/posts/rhel-setup-http-repository/)
 *   [Set up an FTP Repository from RHEL DVD](/posts/rhel-setup-ftp-repository/)

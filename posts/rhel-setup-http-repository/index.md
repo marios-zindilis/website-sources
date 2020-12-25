@@ -9,7 +9,7 @@ various different sources. One of them is over the network, from an HTTP
 accessible repository. Here's how to create such a repository:
 
 1.  You will first need to install `httpd` from the RHEL DVD. See 
-    [Install packages from RHEL DVD with yum](/docs/rhel-yum-install-from-dvd.html) 
+    [Install packages from RHEL DVD with yum](/posts/rhel-yum-install-from-dvd/) 
     on how to do that.
 
 2.  After you have installed `httpd`, enable it and start it:

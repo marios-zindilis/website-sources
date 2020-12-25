@@ -41,5 +41,5 @@ of `tee` to overcome this:
 
 *   [Sending web logs to Computer Security](http://www.fnal.gov/docs/products/apache/syslog_logs_notes.html) 
     from Fermilab, source of the `tee` tip.
-*   [Apache HTTPD CustomLog to Syslog via UDP](http://mykospark.net/2011/01/apache-httpd-customlog-to-syslog-via-udp/), 
+*   [Apache HTTPD CustomLog to Syslog via UDP](https://web.archive.org/web/20130222080252/http://mykospark.net/2011/01/apache-httpd-customlog-to-syslog-via-udp/), 
     source of the `nc -u -j` tip.

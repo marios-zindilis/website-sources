@@ -5,7 +5,7 @@ first-published: 2013-01-03
 
 Από 1<sup>η</sup> Ιανουαρίου 2013, ελευθερώνονται ως 
 <strong>Κοινό Κτήμα</strong> (Public Domain) όλα τα έργα δημιουργών που 
-<a href="http://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1:%CE%98%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9_%CF%84%CE%BF_1942" title="Βικιπαίδεια: Θάνατοι το 1942">πέθαναν το 1942</a>. 
+<a href="https://www.wikidata.org/wiki/Q6436270">πέθαναν το 1942</a>. 
 
 Η σύντομη λίστα των Ελλήνων δημιουργών συμπεριλαμβάνει:
 <h3>Ποιητές - Λογοτέχνες</h3>

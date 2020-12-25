@@ -14,6 +14,4 @@ language: el
 ## Δείτε επίσης ##
 
 *   Ιστότοπος [xig.org](http://www.xig.com/)
-*   Άλλοι εξυπηρετητές γραφικών: [XFree86 3](/posts/xfree86-3/), 
-    [XFree86 4](/posts/xfree86-4/), [X.Org](x.org.el.html).
-
+*   Άλλοι εξυπηρετητές γραφικών: [XFree86 3](/posts/xfree86-3/), [XFree86 4](/posts/xfree86-4/), [X.Org](/posts/x-org/).

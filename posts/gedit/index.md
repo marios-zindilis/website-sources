@@ -8,5 +8,5 @@ last-modified: 2014-03-16
 See also
 --------
 
-*   [3 Useful Gedit Plugins For Programmers](http://mylinuxbook.com/3-useful-gedit-plugins-for-programmers/)
+*   [3 Useful Gedit Plugins For Programmers](https://web.archive.org/web/20140204212941/http://mylinuxbook.com/3-useful-gedit-plugins-for-programmers/)
 *   [Using Snippets](https://wiki.gnome.org/Apps/Gedit/Plugins/Snippets)

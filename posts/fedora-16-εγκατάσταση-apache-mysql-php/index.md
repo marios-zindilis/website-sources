@@ -93,7 +93,7 @@ yum install php-mysql
 πόρτα 80 στην οποία «ακούει» από προεπιλογή ο εξυπηρετητής. Μπορείτε να το αλλάξετε αυτό στο αρχείο
 `/etc/httpd/conf/httpd.conf` στη γραμμή `Listen 80`.
 
-Για να αλλάξετε τους κανόνες ανοίξτε το αρχείο [/etc/sysconfig/iptables](/docs/etc-sysconfig-iptables.el.html) και
+Για να αλλάξετε τους κανόνες ανοίξτε το αρχείο `/etc/sysconfig/iptables` και
 προσθέστε την ακόλουθη γραμμή πριν από την εντολή `COMMIT`:
 
 ```

@@ -10,5 +10,4 @@ first-published: 2014-02-11
 
 *   [Running multiple instances of Thunderbird][2]
 
-  [2]: /blog/2012/09/09/running-multiple-instances-of-thunderbird.html
-    "Running multiple instances of Thunderbird"
+  [2]: /posts/running-multiple-instances-of-thunderbird/ "Running multiple instances of Thunderbird"

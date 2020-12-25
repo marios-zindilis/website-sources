@@ -18,6 +18,6 @@ encapsulation στο οποίο θα λειτουργεί μια διεπαφή,
 ------------
 
 Η εντολή `switchport trunk encapsulation` μπορεί να πάρει τρεις τιμές. 
-Η βασική εναλλακτική του `dot1q` είναι η [switchport trunk encapsulation isl](/docs/cisco/switchport-trunk-encapsulation-isl.el.html), 
+Η βασική εναλλακτική του `dot1q` είναι η [switchport trunk encapsulation isl](/posts/cisco-switchport-trunk-encapsulation-isl/), 
 και για αυτόματη διαπραγμάτευση του encapsulation μεταξύ των δύο συσκευών δείτε το 
-[switchport trunk encapsulation negotiate](/docs/cisco/switchport-trunk-encapsulation-negotiate.el.html). 
+[switchport trunk encapsulation negotiate](/posts/cisco-switchport-trunk-encapsulation-negotiate/). 

@@ -90,26 +90,24 @@ Non-Free or Closed Source or Commercial Log Analysis Software
 *   [Loggly](https://www.loggly.com/) offers log management, analysis 
     and graphing. There is a free version for up to 200 MBytes of data 
     per day and 7-day retention.
-*   [Otus SIEM](http://www.bitsteer.com/otus_about.html)
-*   [LogRhythm](http://www.logrhythm.com/) log management, analysis, 
-    SIEM, focused on security and forensics.
-
+*   [Otus SIEM](https://www.bitsteer.com/products/siem/)
+*   [LogRhythm](http://www.logrhythm.com/) log management, analysis, SIEM, focused on security and forensics.
 
 Analytics and Analysis
 ----------------------
 
 *   [List of web analytics software](http://en.wikipedia.org/wiki/List_of_web_analytics_software)
 *   [Log Analysis](http://www.dmoz.org/Computers/Software/Internet/Site_Management/Log_Analysis/) at DMOZ and 
-    [Log Analysis](http://dir.yahoo.com/business_and_economy/business_to_business/communications_and_networking/internet_and_world_wide_web/network_management/traffic_management/log_analysis_tools/titles/) at Yahoo.
+    [Log Analysis](https://web.archive.org/web/20130801074434/http://dir.yahoo.com/business_and_economy/business_to_business/communications_and_networking/internet_and_world_wide_web/network_management/traffic_management/log_analysis_tools/titles/) at Yahoo Directory.
 
 
 For Windows
 -----------
 
-*   [Snare Backlog](http://www.intersectalliance.com/projects/SnareBackLog/index.html) 
-    is a logging server for Windows, that can collect data from several 
+*   [Snare Backlog](https://web.archive.org/web/20140227033939/http://www.intersectalliance.com/projects/SnareBackLog/index.html) 
+    was a logging server for Windows, that could collect data from several 
     standard sources, as well as from a wide range of operating systems 
-    that run its agent.
+    that run its agent. There are freeware versions of it still available for download.
 *   [LogFaces](http://www.moonlit-software.com/logfaces/web/index.php) 
     is a syslog server for Windows.
 *   [Log Parser](http://www.microsoft.com/en-us/download/details.aspx?id=24659) 

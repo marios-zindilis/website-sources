@@ -12,7 +12,7 @@ used by a few organizations, and is quickly improving due to the efforts
 of its [developers](http://www.opendcim.org/developers.html).
 
 I have written [a complete, bottom-up installation for openDCIM on 
-CentOS](/docs/centos-6-install-opendcim-2.1.html). This will get you up 
+CentOS](/posts/centos-6-install-opendcim-2-1/). This will get you up 
 to the first screen in the web interface, after which you can follow 
 [Scott Milliken's video tutorial](http://www.youtube.com/watch?v=XzEI6Z8yhRg) 
 for the initial settings of the application.
@@ -20,4 +20,4 @@ for the initial settings of the application.
 The guide is written for openDCIM 2.1, but should be fairly applicable 
 to newer versions.
 
-[Read the full installation guide here](/docs/centos-6-install-opendcim-2.1.html).
+[Read the full installation guide here](/posts/centos-6-install-opendcim-2-1/).

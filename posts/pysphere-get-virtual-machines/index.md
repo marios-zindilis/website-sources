@@ -5,7 +5,7 @@ first-published: 2013-12-27
 ---
 
 This is a simple example of how to get a list of Virtual Machines from 
-a VMware host, using [PySphere](/docs/pysphere.html).
+a VMware host, using [PySphere](/posts/pysphere/).
 
 {% highlight python %}
 import pysphere

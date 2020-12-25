@@ -17,7 +17,7 @@ Deprecated Features
 Installation Guide
 ------------------
 
-*   [Citrix XenServer 6.2.0 Installation Guide](http://support.citrix.com/servlet/KbServlet/download/34970-102-704220/installation.pdf) (pdf)
+*   [Citrix XenServer 6.2.0 Installation Guide](https://docs.citrix.com/en-us/legacy-archive/downloads/xs-installation-6-2.pdf) (pdf)
 
 See also
 --------

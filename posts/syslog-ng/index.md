@@ -14,5 +14,5 @@ GUIs compatible with `syslog-ng`
     `syslog-ng` frontend, it can search through the logs if fed to it 
     as clear text files.
 *   [Graylog2](http://graylog2.org/)
-*   [fluentd](http://docs.fluentd.org/articles/quickstart)
+*   [fluentd](https://www.fluentd.org/)
 *   [LogAnalyzer](http://loganalyzer.adiscon.com/)

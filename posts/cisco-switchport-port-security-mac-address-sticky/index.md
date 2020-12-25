@@ -16,4 +16,4 @@ first-published: 2011-09-29
 
 *   Εναλλακτικά, μπορείτε να καθορίσετε ρητά ότι η διεπαφή θα επιτρέπει 
     μόνο συγκεκριμένες φυσικές διευθύνσεις MAC που θα ορίσετε, με την 
-    εντολή [switchport port-security mac-address $MAC-ADDRESS](/posts/cisco-switchport-port-security-mac-address/).
+    εντολή `switchport port-security mac-address $MAC-ADDRESS`.

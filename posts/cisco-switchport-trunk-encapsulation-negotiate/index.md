@@ -18,7 +18,7 @@ first-published: 2011-09-29
 από τις οποίες η `negotiate` περιγράφεται σε αυτό το άρθρο. Για τις 
 άλλες δύο τιμές, δείτε:
 
-*   [switchport trunk encapsulation dot1q](/docs/cisco/switchport-trunk-encapsulation-dot1q.el.html) 
+*   [switchport trunk encapsulation dot1q](/posts/cisco-switchport-trunk-encapsulation-dot1q/) 
     για την τιμή `dot1q`, η οποία είναι και η μοναδική που 
     χρησιμοποιείται πλέον πρακτικά, και
-*   [switchport trunk encapsulation isl](/docs/cisco/switchport-trunk-encapsulation-isl.el.html)
+*   [switchport trunk encapsulation isl](/posts/cisco-switchport-trunk-encapsulation-isl/)
