@@ -1,6 +1,6 @@
 ---
 title: Example queries on the Sakila MySQL database
-Description: A small collection of example MySQL queries on the Sakila database
+description: A small collection of example MySQL queries on the Sakila database
 first-published: 2015-07-25
 Last Updated: 2015-07-25
 tags:

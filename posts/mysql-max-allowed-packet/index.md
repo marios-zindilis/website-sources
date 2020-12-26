@@ -1,6 +1,6 @@
 ---
 title: max_allowed_packet
-Description: MySQL Variable max_allowed_packet
+description: MySQL Variable max_allowed_packet
 first-published: 2012-05-15
 ---
 

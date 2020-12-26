@@ -1,6 +1,6 @@
 ---
 title: Mutagen ID3 Python Library
-Description: Notes and links on using Mutagen for accessing ID3 tags in Python
+description: Notes and links on using Mutagen for accessing ID3 tags in Python
 first-published: 2015-12-12
 ---
 

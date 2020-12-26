@@ -1,6 +1,6 @@
 ---
 title: Wowza
-Description: Wowza Transcoder
+description: Wowza Transcoder
 first-published: 2013-11-20
 last-modified: 2015-08-26
 ---

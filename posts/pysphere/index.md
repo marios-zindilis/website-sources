@@ -1,6 +1,6 @@
 ---
 title: PySphere
-Description: Notes on PySphere Python API for vSphere Web Services SDK
+description: Notes on PySphere Python API for vSphere Web Services SDK
 first-published: 2013-12-27
 ---
 

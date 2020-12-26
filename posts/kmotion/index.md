@@ -1,6 +1,6 @@
 ---
 title: Kmotion
-Description: Kmotion Web GUI for Motion
+description: Kmotion Web GUI for Motion
 first-published: 2013-12-03
 ---
 

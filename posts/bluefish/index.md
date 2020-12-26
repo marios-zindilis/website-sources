@@ -1,6 +1,6 @@
 ---
 title: Bluefish
-Description: Notes and links on the Bluefish text editor
+description: Notes and links on the Bluefish text editor
 first-published: 2014-03-10
 ---
 

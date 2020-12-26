@@ -1,7 +1,7 @@
 ---
 title: login local
 language: el
-Description: Σημειώσεις για την εντολή login local σε συσκευές Cisco
+description: Σημειώσεις για την εντολή login local σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2011-06-18
 ---

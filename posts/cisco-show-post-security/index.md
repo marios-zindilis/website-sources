@@ -1,6 +1,6 @@
 ---
 title: "Cisco: show port-security"
-Description: Notes on command 'show port-security' on Cisco devices
+description: Notes on command 'show port-security' on Cisco devices
 first-published: 2013-12-29
 ---
 

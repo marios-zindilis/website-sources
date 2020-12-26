@@ -1,6 +1,6 @@
 ---
 title: "Cisco: banner login"
-Description: Notes on command 'banner login' on Cisco devices
+description: Notes on command 'banner login' on Cisco devices
 Author: Marios Zindilis
 first-published: 2013-12-29
 Last Updated: 2014-01-19

@@ -1,7 +1,7 @@
 ---
 title: Συντομεύσεις πληκτρολογίου σε συσκευές Cisco
 language: el
-Description: Συντομεύσεις πληκτρολογίου σε συσκευές Cisco
+description: Συντομεύσεις πληκτρολογίου σε συσκευές Cisco
 first-published: 2014-02-17
 ---
 

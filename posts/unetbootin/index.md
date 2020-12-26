@@ -1,6 +1,6 @@
 ---
 title: Unetbootin
-Description: Notes and links on Unetbootin
+description: Notes and links on Unetbootin
 first-published: 2015-05-09
 ---
 

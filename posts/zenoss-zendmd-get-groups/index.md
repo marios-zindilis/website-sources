@@ -1,6 +1,6 @@
 ---
 title: Get Device Groups in Zenoss with ZenDMD
-Description: How to get device groups from Zenoss with ZenDMD
+description: How to get device groups from Zenoss with ZenDMD
 first-published: 2013-11-11
 Last Updated: 2014-01-26
 tags:

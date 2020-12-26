@@ -1,6 +1,6 @@
 ---
 title: PostgreSQL Configuration Changes with pgtune
-Description: Example output from pgtune
+description: Example output from pgtune
 first-published: 2013-10-25
 last-modified: 2013-11-23
 ---

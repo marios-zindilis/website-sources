@@ -1,6 +1,6 @@
 ---
 title: ElasticSearch, Logstash and Kibana
-Description: Notes and links on the ELK stack
+description: Notes and links on the ELK stack
 first-published: 2015-03-22
 ---
 

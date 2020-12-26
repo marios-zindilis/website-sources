@@ -1,6 +1,6 @@
 ---
 title: Zenoss 4
-Description: Notes on Zenoss 4
+description: Notes on Zenoss 4
 first-published: 2014-02-04
 tags:
 - Zenoss

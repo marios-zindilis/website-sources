@@ -1,6 +1,6 @@
 ---
 title: VMware Transparent Page Sharing
-Description: Notes and links on Transparent Page Sharing on VMware
+description: Notes and links on Transparent Page Sharing on VMware
 first-published: 2014-06-11
 ---
 

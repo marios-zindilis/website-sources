@@ -1,6 +1,6 @@
 ---
 title: tunef2s
-Description: Notes and links on tune2fs
+description: Notes and links on tune2fs
 first-published: 2014-03-09
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Linux Mint
-Description: Notes and link on the Linux Mint distribution
+description: Notes and link on the Linux Mint distribution
 first-published: 2014-03-29
 ---
 

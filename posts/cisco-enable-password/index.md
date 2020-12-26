@@ -1,6 +1,6 @@
 ---
 title: enable password
-Description: Notes on Cisco command 'enable password'
+description: Notes on Cisco command 'enable password'
 first-published: 2014-01-02
 ---
 

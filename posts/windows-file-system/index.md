@@ -1,6 +1,6 @@
 ---
 title: Windows Filesystem
-Description: Noteworthy directories and files on Windows
+description: Noteworthy directories and files on Windows
 first-published: 2014-11-01
 ---
 

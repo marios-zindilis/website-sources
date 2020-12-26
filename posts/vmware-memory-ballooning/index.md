@@ -1,6 +1,6 @@
 ---
 title: VMware Memory Balloning
-Description: Notes and links on VMware Memory Ballooning
+description: Notes and links on VMware Memory Ballooning
 first-published: 2014-06-11
 ---
 

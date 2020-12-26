@@ -1,6 +1,6 @@
 ---
 title: Pacemaker
-Description: Notes and links on the Pacemaker resource manager
+description: Notes and links on the Pacemaker resource manager
 first-published: 2014-03-08
 ---
 

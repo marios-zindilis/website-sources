@@ -1,6 +1,6 @@
 ---
 title: hpacucli
-Description: HP RAID Array Configuration Linux Utilitys
+description: HP RAID Array Configuration Linux Utilitys
 first-published: 2013-12-02
 last-modified: 2014-07-23
 ---

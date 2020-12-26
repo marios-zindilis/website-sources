@@ -1,6 +1,6 @@
 ---
 title: "hostname (Cisco Command)"
-Description: Notes on the 'hostname' command on Cisco devices
+description: Notes on the 'hostname' command on Cisco devices
 Author: Marios Zindilis
 first-published: 2014-01-05
 ---

@@ -1,6 +1,6 @@
 ---
 title: Set up an FTP Repository from RHEL DVD
-Description: How to configure an FTP accessible repository from the RHEL DVD
+description: How to configure an FTP accessible repository from the RHEL DVD
 first-published: 2014-09-22
 ---
 

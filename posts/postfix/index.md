@@ -1,6 +1,6 @@
 ---
 title: Postfix
-Description: Notes and links on Postfix
+description: Notes and links on Postfix
 first-published: 2014-03-09
 last-modified: 2014-08-16
 ---

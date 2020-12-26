@@ -1,6 +1,6 @@
 ---
 title: SystemBack
-Description: Notes and links on the SystemBack backup tool
+description: Notes and links on the SystemBack backup tool
 first-published: 2014-07-12
 ---
 

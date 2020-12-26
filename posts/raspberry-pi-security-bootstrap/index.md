@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi Security Bootstrap
-Description: Initial security configuration of a new Raspberry Pi
+description: Initial security configuration of a new Raspberry Pi
 first-published: 2014-12-13
 last-modified: 2015-04-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: Create test databases in MySQL
-Description: How to create test databases in MySQL
+description: How to create test databases in MySQL
 first-published: 2014-04-12
 tags:
 - MySQL

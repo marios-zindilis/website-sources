@@ -1,6 +1,6 @@
 ---
 title: yum
-Description: Notes on yum
+description: Notes on yum
 first-published: 2014-03-07
 ---
 

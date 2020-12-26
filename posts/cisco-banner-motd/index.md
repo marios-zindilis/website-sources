@@ -1,6 +1,6 @@
 ---
 title: "Cisco: banner motd"
-Description: Notes on command 'banner motd' on Cisco devices
+description: Notes on command 'banner motd' on Cisco devices
 first-published: 2013-12-29
 ---
 

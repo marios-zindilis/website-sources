@@ -1,6 +1,6 @@
 ---
 title: syslog-ng
-Description: syslog-ng
+description: syslog-ng
 first-published: 2013-11-23
 last-modified: 2013-11-23
 ---

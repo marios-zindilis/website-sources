@@ -1,6 +1,6 @@
 ---
 title: "default interface (Cisco Command)"
-Description: Notes on the `default interface` command on Cisco devices
+description: Notes on the `default interface` command on Cisco devices
 first-published: 2014-02-24
 tags:
 - Cisco

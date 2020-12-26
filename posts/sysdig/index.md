@@ -1,6 +1,6 @@
 ---
 title: sysdig
-Description: Notes and links for sysdig
+description: Notes and links for sysdig
 first-published: 2014-04-19
 last-modified: 2014-12-03
 ---

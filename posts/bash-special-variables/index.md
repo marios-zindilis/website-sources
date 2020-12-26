@@ -1,6 +1,6 @@
 ---
 title: Bash Special Variables
-Description: Notes on special variables in Bash scripts
+description: Notes on special variables in Bash scripts
 first-published: 2013-12-25
 last-modified: 2014-09-29
 ---

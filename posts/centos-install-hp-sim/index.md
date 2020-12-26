@@ -1,6 +1,6 @@
 ---
 title: Install HP System Insight Manager on CentOS
-Description: How to install HP System Insight Manager on CentOS
+description: How to install HP System Insight Manager on CentOS
 first-published: 2013-12-19
 ---
 

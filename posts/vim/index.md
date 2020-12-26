@@ -1,6 +1,6 @@
 ---
 title: Vim
-Description: Notes on the Vim text editor
+description: Notes on the Vim text editor
 first-published: 2013-12-24
 last-modified: 2015-10-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: VirtualBox
-Description: Notes and links on VirtualBox
+description: Notes and links on VirtualBox
 first-published: 2014-07-02
 ---
 

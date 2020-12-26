@@ -14,3 +14,10 @@ do
     echo "$file_missing_title is missing the title"
 done
 
+# all markdown files should have a 'description' line:
+files_missing_description=$(grep --recursive --files-without-match --include '*.md' --exclude README.md 'description' *)
+for file_missing_description in $files_missing_description
+do
+    echo "$file_missing_description is missing the description"
+done
+

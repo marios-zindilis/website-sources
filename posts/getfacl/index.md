@@ -1,7 +1,7 @@
 ---
 language: el
 title: getfacl
-Description: Σημειώσεις για την εντολή getfacl
+description: Σημειώσεις για την εντολή getfacl
 first-published: 2011-11-05
 ---
 

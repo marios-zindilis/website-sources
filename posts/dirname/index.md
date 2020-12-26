@@ -1,6 +1,6 @@
 ---
 title: dirname
-Description: Notes and links on dirname
+description: Notes and links on dirname
 first-published: 2014-04-08
 ---
 

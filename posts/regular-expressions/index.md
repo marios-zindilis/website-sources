@@ -1,6 +1,6 @@
 ---
 title: Regular Expressions
-Description: Notes on Regular Expressions
+description: Notes on Regular Expressions
 first-published: 2014-01-16
 ---
 

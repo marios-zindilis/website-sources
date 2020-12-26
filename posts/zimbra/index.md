@@ -1,6 +1,6 @@
 ---
 title: Zimbra
-Description: Notes and links on Zimbra
+description: Notes and links on Zimbra
 first-published: 2015-04-11
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: arp-scan
-Description: Notes and links on the arp-scan network utility
+description: Notes and links on the arp-scan network utility
 first-published: 2014-03-19
 ---
 

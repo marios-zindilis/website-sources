@@ -1,6 +1,6 @@
 ---
 title: Network Interface Bonding
-Description: Notes and links on Network Interface Bonding
+description: Notes and links on Network Interface Bonding
 first-published: 2014-06-21
 ---
 

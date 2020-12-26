@@ -1,6 +1,6 @@
 ---
 title: Salt
-Description: Salt Orchestration and Configuration Management
+description: Salt Orchestration and Configuration Management
 first-published: 2013-11-27
 last-modified: 2013-11-27
 ---

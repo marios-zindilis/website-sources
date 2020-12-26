@@ -1,6 +1,6 @@
 ---
 title: "KVM (Kernel-based Virtual Machine)"
-Description: Notes on the Kernel Based Virtual Machine
+description: Notes on the Kernel Based Virtual Machine
 Author: Marios Zindilis
 first-published: 2014-01-08
 last-modified: 2014-04-09

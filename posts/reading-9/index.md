@@ -1,7 +1,8 @@
 ---
 title: "Reading #9"
-Author: Marios Zindilis
+author: Marios Zindilis
 first-published: 2011-07-06
+description: Content worth reading for 2011-07-06
 ---
 
 A reading post!

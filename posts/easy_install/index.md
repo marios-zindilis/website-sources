@@ -1,6 +1,6 @@
 ---
 title: easy_install
-Description: easy_install
+description: easy_install
 first-published: 2013-10-25
 last-modified: 2014-03-23
 ---

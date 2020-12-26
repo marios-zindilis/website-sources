@@ -1,6 +1,6 @@
 ---
 title: Single Loss Expectancy
-Description: Notes and links on Single Loss Expectancy
+description: Notes and links on Single Loss Expectancy
 first-published: 2015-09-20
 ---
 

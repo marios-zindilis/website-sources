@@ -1,6 +1,6 @@
 ---
 title: Basic Authentication with Apache 2
-Description: Basic authentication with Apache 2
+description: Basic authentication with Apache 2
 first-published: 2013-11-12
 last-modified: 2018-01-27
 ---

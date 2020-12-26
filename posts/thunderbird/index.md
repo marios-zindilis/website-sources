@@ -1,6 +1,6 @@
 ---
 title: Mozilla Thunderbird
-Description: Notes in the Mozilla Thunderbird email client
+description: Notes in the Mozilla Thunderbird email client
 first-published: 2014-02-11
 ---
 

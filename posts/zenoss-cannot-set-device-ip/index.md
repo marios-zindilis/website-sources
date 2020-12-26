@@ -1,6 +1,6 @@
 ---
 title: Cannot set device IP in Zenoss
-Description: How to fix failure to set IP in Zenoss
+description: How to fix failure to set IP in Zenoss
 first-published: 2014-01-15
 Last Updated: 2016-11-06
 tags:

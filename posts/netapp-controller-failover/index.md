@@ -1,6 +1,6 @@
 ---
 title: NetApp Controller Failover
-Description: Notes on NetApp Controller Failover Commands
+description: Notes on NetApp Controller Failover Commands
 first-published: 2014-01-21
 ---
 

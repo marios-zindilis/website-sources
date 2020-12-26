@@ -1,7 +1,7 @@
 ---
 language: el
 title: find (el)
-Description: Σημειώσεις για την εντολή find
+description: Σημειώσεις για την εντολή find
 first-published: 2011-09-24
 last-modified: 2012-02-16
 ---

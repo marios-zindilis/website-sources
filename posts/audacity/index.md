@@ -1,6 +1,6 @@
 ---
 title: Audacity
-Description: Notes and links on Audacity
+description: Notes and links on Audacity
 first-published: 2015-11-09
 ---
 

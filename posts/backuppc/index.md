@@ -1,6 +1,6 @@
 ---
 title: BackupPC
-Description: Notes and links on BackupPC
+description: Notes and links on BackupPC
 first-published: 2014-12-18
 last-modified: 2015-06-18
 ---

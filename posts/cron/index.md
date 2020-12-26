@@ -1,6 +1,6 @@
 ---
 title: cron
-Description: Notes and links on cron
+description: Notes and links on cron
 first-published: 2014-03-09
 ---
 

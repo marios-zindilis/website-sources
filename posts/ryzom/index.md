@@ -1,6 +1,6 @@
 ---
 title: Ryzom
-Description: Notes on the Ryzom MMORPG
+description: Notes on the Ryzom MMORPG
 first-published: 2014-01-02
 ---
 

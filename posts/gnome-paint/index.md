@@ -1,6 +1,6 @@
 ---
 title: GNOME Paint
-Description: Notes on GNOME Paint
+description: Notes on GNOME Paint
 first-published: 2011-08-18
 ---
 

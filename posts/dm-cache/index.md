@@ -1,6 +1,6 @@
 ---
 title: dm-cache
-Description: dm-cache
+description: dm-cache
 first-published: 2013-11-26
 ---
 

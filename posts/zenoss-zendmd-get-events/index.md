@@ -1,6 +1,6 @@
 ---
 title: Get Zenoss Events from ZenDMD
-Description: How to get Zenoss events with ZenDMD
+description: How to get Zenoss events with ZenDMD
 first-published: 2013-10-25
 Last Updated: 2013-12-10
 tags:

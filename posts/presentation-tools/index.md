@@ -1,6 +1,6 @@
 ---
 title: Presentation Tools
-Description: Links to software that can be used to create presentations
+description: Links to software that can be used to create presentations
 first-published: 2014-09-23
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "show vtp status (Cisco)"
-Description: Notes on the `show vtp status` command on Cisco devices
+description: Notes on the `show vtp status` command on Cisco devices
 first-published: 2014-02-24
 tags:
 - Cisco

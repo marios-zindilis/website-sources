@@ -1,6 +1,6 @@
 ---
 title: PepperMint OS
-Description: Notes and links on the PepperMint OS Linux distribution
+description: Notes and links on the PepperMint OS Linux distribution
 first-published: 2014-03-12
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: write erase
 language: el
-Description: Σημειώσεις για την εντολή write erase σε συσκευές Cisco
+description: Σημειώσεις για την εντολή write erase σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2014-01-24
 tags:

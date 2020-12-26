@@ -1,6 +1,6 @@
 ---
 title: Cheese
-Description: Notes on the Cheese application
+description: Notes on the Cheese application
 first-published: 2011-08-18
 ---
 

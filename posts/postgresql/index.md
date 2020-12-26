@@ -1,6 +1,6 @@
 ---
 title: PostgreSQL
-Description: Notes and links on PostgreSQL
+description: Notes and links on PostgreSQL
 first-published: 2015-01-13
 ---
 

@@ -1,7 +1,7 @@
 ---
 language: el
 title: Subversion (ελληνικά)
-Description: Σημειώσεις για το Subversion
+description: Σημειώσεις για το Subversion
 Author: Marios Zindilis
 first-published: 2011-07-02
 last-modified: 2014-05-01

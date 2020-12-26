@@ -1,6 +1,6 @@
 ---
 title: GnuTLS
-Description: Notes and links on GnuTLS
+description: Notes and links on GnuTLS
 first-published: 2014-03-08
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: mysqldump
-Description: Notes on mysqldump
+description: Notes on mysqldump
 first-published: 2014-01-14
 Last Updated: 2014-02-04
 tags:

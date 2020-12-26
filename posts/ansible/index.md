@@ -1,6 +1,6 @@
 ---
 title: Ansible
-Description: Ansible Orchestration and Configuration Management
+description: Ansible Orchestration and Configuration Management
 first-published: 2013-11-27
 last-modified: 2014-08-20
 ---

@@ -1,6 +1,6 @@
 ---
 title: Taiga
-Description: Notes and links for the Taiga project management application
+description: Notes and links for the Taiga project management application
 first-published: 2014-12-18
 ---
 

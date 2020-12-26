@@ -1,6 +1,6 @@
 ---
 title: Annual Loss Expectancy
-Description: Notes and links on Annual Loss Expectancy
+description: Notes and links on Annual Loss Expectancy
 first-published: 2015-09-20
 ---
 

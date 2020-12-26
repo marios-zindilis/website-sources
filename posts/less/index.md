@@ -1,6 +1,6 @@
 ---
 title: less
-Description: The less pager
+description: The less pager
 first-published: 2012-02-09
 last-modified: 2013-12-24
 ---

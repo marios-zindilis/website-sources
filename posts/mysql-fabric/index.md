@@ -1,6 +1,6 @@
 ---
 title: MySQL Fabric
-Description: Notes and links on MySQL Fabric
+description: Notes and links on MySQL Fabric
 first-published: 2014-05-18
 ---
 

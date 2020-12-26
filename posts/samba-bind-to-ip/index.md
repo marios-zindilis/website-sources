@@ -1,6 +1,6 @@
 ---
 title: Bind Samba server to specific IP
-Description: How to bind the Samba server to a specific interface or IP
+description: How to bind the Samba server to a specific interface or IP
 first-published: 2014-03-14
 ---
 

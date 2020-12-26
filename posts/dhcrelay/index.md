@@ -1,6 +1,6 @@
 ---
 title: dhcrelay
-Description: DHCP relay dhcrelay
+description: DHCP relay dhcrelay
 first-published: 2013-12-31
 ---
 

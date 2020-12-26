@@ -1,6 +1,6 @@
 ---
 title: "show vlan (Cisco)"
-Description: Notes on the `show vlan` command on Cisco devices
+description: Notes on the `show vlan` command on Cisco devices
 first-published: 2014-02-22
 Last Updated: 2014-02-24
 tags:

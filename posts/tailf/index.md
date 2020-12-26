@@ -1,6 +1,6 @@
 ---
 title: tailf
-Description: Notes on the 'tailf' command
+description: Notes on the 'tailf' command
 first-published: 2014-01-02
 ---
 

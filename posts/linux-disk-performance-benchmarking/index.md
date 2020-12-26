@@ -1,6 +1,6 @@
 ---
 title: Disk Performance Benchmarking in Linux
-Description: How to do disk performance benchmarks in Linux
+description: How to do disk performance benchmarks in Linux
 first-published: 2013-11-14
 last-modified: 2014-02-04
 ---

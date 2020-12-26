@@ -1,6 +1,6 @@
 ---
 title: drbd
-Description: Notes and links on the DRBD distributed filesystem
+description: Notes and links on the DRBD distributed filesystem
 first-published: 2014-03-15
 ---
 

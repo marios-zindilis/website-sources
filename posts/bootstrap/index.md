@@ -1,6 +1,6 @@
 ---
 title: Bootstrap
-Description: Notes and links on Bootstrap
+description: Notes and links on Bootstrap
 first-published: 2018-04-01
 last-modified: 2020-12-23
 ---

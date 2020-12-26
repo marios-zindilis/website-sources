@@ -1,6 +1,6 @@
 ---
 title: smartmontools
-Description: Hard disk monitoring with smartmontools
+description: Hard disk monitoring with smartmontools
 first-published: 2014-10-18
 ---
 

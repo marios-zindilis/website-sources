@@ -1,6 +1,6 @@
 ---
 title: Juniper Routing Policy Examples
-Description: Configuration examples for routing policies in Juniper devices
+description: Configuration examples for routing policies in Juniper devices
 Author: Marios Zindilis
 first-published: 2014-01-20
 ---

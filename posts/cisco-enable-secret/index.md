@@ -1,6 +1,6 @@
 ---
 title: enable secret
-Description: Notes on the 'enable secret' command on Cisco devices
+description: Notes on the 'enable secret' command on Cisco devices
 first-published: 2014-01-02
 ---
 

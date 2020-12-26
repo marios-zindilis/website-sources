@@ -1,6 +1,6 @@
 ---
 title: Bash Scripting
-Description: Notes and Links on Bash Scripting
+description: Notes and Links on Bash Scripting
 first-published: 2014-03-31
 ---
 

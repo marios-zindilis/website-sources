@@ -1,7 +1,8 @@
 ---
 title: "Reading #8"
-Author: Marios Zindilis
+author: Marios Zindilis
 first-published: 2011-04-03
+description: Content worth reading for 2011-04-03
 ---
 
 Not much reading done for the past couple of days. I am occupied elsewhere, plus I 'm doing some research that might or

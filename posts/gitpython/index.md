@@ -1,6 +1,6 @@
 ---
 title: GitPython
-Description: Notes and links on GitPython
+description: Notes and links on GitPython
 first-published: 2014-06-12
 ---
 

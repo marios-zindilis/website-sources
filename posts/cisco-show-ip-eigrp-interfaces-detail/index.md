@@ -1,7 +1,7 @@
 ---
 title: show ip eigrp interfaces detail
 language: el
-Description: Σημειώσεις για την εντολή show ip eigrp interfaces details σε συσκευές Cisco
+description: Σημειώσεις για την εντολή show ip eigrp interfaces details σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2012-04-28
 Last Updated: 2014-01-20

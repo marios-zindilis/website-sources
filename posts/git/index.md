@@ -1,6 +1,6 @@
 ---
 title: Git
-Description: Notes and links on Git
+description: Notes and links on Git
 first-published: 2014-06-21
 last-modified: 2016-05-08
 ---

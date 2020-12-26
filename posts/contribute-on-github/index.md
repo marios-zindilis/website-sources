@@ -1,6 +1,6 @@
 ---
 title: Contribute to an open source project on GitHub
-Description: A guide on how-to contribute to an open source project on GitHub
+description: A guide on how-to contribute to an open source project on GitHub
 first-published: 2014-01-29
 last-modified: 2014-07-22
 ---

@@ -1,6 +1,6 @@
 ---
 title: Get Virtual Machines from VMware with PySphere
-Description: How to get a list of Virtual Machines from a VMware host with PySphere
+description: How to get a list of Virtual Machines from a VMware host with PySphere
 first-published: 2013-12-27
 ---
 

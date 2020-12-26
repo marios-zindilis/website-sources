@@ -1,6 +1,6 @@
 ---
 title: killall
-Description: Notes and links on killall
+description: Notes and links on killall
 first-published: 2014-03-09
 ---
 

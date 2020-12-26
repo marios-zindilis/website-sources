@@ -1,6 +1,6 @@
 ---
 title: Juniper Acronyms
-Description: A list of Juniper-Networks-related acronyms
+description: A list of Juniper-Networks-related acronyms
 first-published: 2013-11-04
 Last Updated: 2014-02-24
 ---

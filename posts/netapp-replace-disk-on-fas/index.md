@@ -1,6 +1,6 @@
 ---
 title: Replace Failed Disk on NetApp FAS
-Description: How to replace a failed disk on a NetApp FAS
+description: How to replace a failed disk on a NetApp FAS
 first-published: 2015-03-30
 ---
 

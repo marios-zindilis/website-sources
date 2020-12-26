@@ -1,6 +1,6 @@
 ---
 title: OpenSSL
-Description: Notes and links on OpenSSL
+description: Notes and links on OpenSSL
 first-published: 2015-07-01
 ---
 

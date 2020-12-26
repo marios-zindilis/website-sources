@@ -1,6 +1,6 @@
 ---
 title: Corosync Cluster Engine
-Description: Notes and links on the Corosync Cluster Engine
+description: Notes and links on the Corosync Cluster Engine
 first-published: 2014-03-08
 ---
 

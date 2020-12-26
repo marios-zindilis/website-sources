@@ -1,6 +1,6 @@
 ---
 title: Angular
-Description: Notes on Angular
+description: Notes on Angular
 first-published: 2018-02-02
 tags:
 - Angular

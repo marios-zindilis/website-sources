@@ -1,6 +1,6 @@
 ---
 title: "set system host-name (Juniper Command)"
-Description: Notes on the 'set system host-name' command on Juniper devices
+description: Notes on the 'set system host-name' command on Juniper devices
 Author: Marios Zindilis
 first-published: 2014-01-05
 ---

@@ -1,6 +1,6 @@
 ---
 title: Set up an HTTP Repository from RHEL DVD
-Description: How to configure an HTTP accessible repository from the RHEL DVD
+description: How to configure an HTTP accessible repository from the RHEL DVD
 first-published: 2014-04-05
 ---
 

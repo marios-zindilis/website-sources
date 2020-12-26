@@ -1,6 +1,6 @@
 ---
 title: uGet Download Manager
-Description: Notes and links on the uGet Download Manager
+description: Notes and links on the uGet Download Manager
 first-published: 2014-03-08
 ---
 

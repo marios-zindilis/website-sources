@@ -1,6 +1,6 @@
 ---
 title: mysqlhotcopy
-Description: Notes on mysqlhotcopy
+description: Notes on mysqlhotcopy
 first-published: 2015-01-29
 tags:
 - MySQL

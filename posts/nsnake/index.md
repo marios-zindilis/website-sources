@@ -1,6 +1,6 @@
 ---
 title: nSnake
-Description: Notes and links on the nSnake game
+description: Notes and links on the nSnake game
 first-published: 2014-03-10
 ---
 

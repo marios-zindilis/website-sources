@@ -1,7 +1,7 @@
 ---
 title: "reload (εντολή Cisco)"
 language: el
-Description: Χρήση της εντολής reload σε συσκευές Cisco
+description: Χρήση της εντολής reload σε συσκευές Cisco
 first-published: 2011-07-07
 Last Updated: 2013-12-29
 ---

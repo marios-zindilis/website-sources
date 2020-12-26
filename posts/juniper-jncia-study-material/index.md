@@ -1,6 +1,6 @@
 ---
 title: Study Material for JNCIA
-Description: A list of study material for JNCIA
+description: A list of study material for JNCIA
 first-published: 2013-11-02
 Last Updated: 2014-01-17
 tags:

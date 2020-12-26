@@ -1,6 +1,6 @@
 ---
 title: Install Motion on CentOS 6
-Description: How to install Motion camera monitor on CentOS 6
+description: How to install Motion camera monitor on CentOS 6
 first-published: 2013-11-25
 last-modified: 2013-11-26
 ---

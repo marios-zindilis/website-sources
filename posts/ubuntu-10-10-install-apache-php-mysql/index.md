@@ -1,7 +1,7 @@
 ---
 language: el
 title: Εγκατάσταση Apache, MySQL και PHP σε Ubuntu 10.10
-Description: Οδηγίες για την εγκατάσταση Apache, MySQL και PHP σε Ubuntu 10.10
+description: Οδηγίες για την εγκατάσταση Apache, MySQL και PHP σε Ubuntu 10.10
 Author: Marios Zindilis
 first-published: 2011-10-28
 ---

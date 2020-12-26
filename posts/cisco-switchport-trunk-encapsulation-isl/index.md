@@ -1,7 +1,7 @@
 ---
 title: switchport trunk encapsulation isl
 langauge: el
-Description: Σημειώσεις για την εντολή switchport trunk encapsulation isl σε συσκευές Cisco
+description: Σημειώσεις για την εντολή switchport trunk encapsulation isl σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2011-09-29
 ---

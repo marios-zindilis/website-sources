@@ -1,6 +1,6 @@
 ---
 title: openDCIM
-Description: Links and notes on openDCIM, the Open Source DataCenter Infrastructure Management
+description: Links and notes on openDCIM, the Open Source DataCenter Infrastructure Management
 first-published: 2013-12-04
 ---
 

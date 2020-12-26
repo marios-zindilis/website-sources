@@ -1,7 +1,7 @@
 ---
 title: "bandwidth (Εντολή Cisco)"
 language: el
-Description: Σημειώσεις για την εντολή bandwidth σε συσκευές Cisco
+description: Σημειώσεις για την εντολή bandwidth σε συσκευές Cisco
 first-published: 2011-10-08
 ---
 

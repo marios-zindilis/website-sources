@@ -1,6 +1,6 @@
 ---
 title: web.py Deployment on Ubuntu 14.04
-Description: Notes and links on the web.py framework
+description: Notes and links on the web.py framework
 first-published: 2015-11-01
 ---
 

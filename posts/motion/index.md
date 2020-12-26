@@ -1,6 +1,6 @@
 ---
 title: Motion
-Description: Motion software motion detector
+description: Motion software motion detector
 first-published: 2013-11-27
 last-modified: 2013-12-03
 ---

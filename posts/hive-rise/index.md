@@ -1,6 +1,6 @@
 ---
 title: Hive Rise
-Description: Hive Rise strategy game
+description: Hive Rise strategy game
 first-published: 2011-08-15
 last-modified: 2013-11-23
 ---

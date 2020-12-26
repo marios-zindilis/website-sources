@@ -1,6 +1,6 @@
 ---
 title: parted
-Description: Notes and links on the parted partition editor
+description: Notes and links on the parted partition editor
 first-published: 2014-03-15
 ---
 

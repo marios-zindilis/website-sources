@@ -1,6 +1,6 @@
 ---
 title: Logging in Linux
-Description: Notes on logging daemons on Linux
+description: Notes on logging daemons on Linux
 first-published: 2014-01-28
 last-modified: 2015-04-25
 ---

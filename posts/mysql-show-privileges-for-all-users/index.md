@@ -1,6 +1,6 @@
 ---
 title: "Show privileges for all users in MySQL"
-Description: Bash script for displaying privileges for all users in MySQL
+description: Bash script for displaying privileges for all users in MySQL
 first-published: 2015-07-25
 tags:
 - MySQL

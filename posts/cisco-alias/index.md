@@ -1,6 +1,6 @@
 ---
 title: "alias (Cisco command)"
-Description: Notes on the alias command on Cisco devices
+description: Notes on the alias command on Cisco devices
 first-published: 2013-12-29
 Last Updated: 2014-01-19
 ---

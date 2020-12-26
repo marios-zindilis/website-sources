@@ -1,6 +1,6 @@
 ---
 title: ntpdate
-Description: ntpdate
+description: ntpdate
 first-published: 2013-12-18
 last-modified: 2013-12-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: keepalived
-Description: Notes and links on keepalived
+description: Notes and links on keepalived
 first-published: 2015-05-21
 ---
 

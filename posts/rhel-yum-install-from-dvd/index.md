@@ -1,6 +1,6 @@
 ---
 title: Install packages from RHEL DVD with yum
-Description: How to install packages from the RHEL DVD with yum
+description: How to install packages from the RHEL DVD with yum
 first-published: 2014-03-31
 last-modified: 2014-09-16
 ---

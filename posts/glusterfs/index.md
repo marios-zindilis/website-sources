@@ -1,6 +1,6 @@
 ---
 title: GlusterFS
-Description: Notes and links on GlusterFS
+description: Notes and links on GlusterFS
 first-published: 2014-03-11
 last-modified: 2014-04-09
 ---

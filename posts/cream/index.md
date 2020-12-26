@@ -1,6 +1,6 @@
 ---
 title: Cream
-Description: Cream advanced text editor
+description: Cream advanced text editor
 first-published: 2012-02-08
 last-modified: 2015-08-10
 ---

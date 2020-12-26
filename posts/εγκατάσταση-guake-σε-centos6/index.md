@@ -2,6 +2,7 @@
 title: Εγκατάσταση Guake σε CentOS6
 Author: Marios Zindilis
 first-published: 2011-11-19
+description: Βήμα προς βήμα εγκατάσταση του τερματικού Guake στο CentOS 6
 ---
 
 Το <a href="http://guake.org/" title="Guake Terminal">Guake</a> είναι ένα μικρό εργαλείο το οποίο κάθεται στην περιοχή ειδοποιήσεων του GNOME2 (ή του GNOME3 με Fallback), και ανοίγει το τερματικό μόνο με την πίεση του πλήκτρου F12. Το βρίσκω εξαιρετικά χρήσιμο εργαλείο, και το έχω εγκατεστημένο σε όλα μου τα συστήματα. 

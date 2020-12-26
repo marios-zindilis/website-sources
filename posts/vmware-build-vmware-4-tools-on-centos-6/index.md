@@ -1,6 +1,6 @@
 ---
 title: Building VMware ESXi 4 Tools on CentOS 6
-Description: How to build VMware tools for a CentOS 6 virtual machine running on an ESXi 4 server
+description: How to build VMware tools for a CentOS 6 virtual machine running on an ESXi 4 server
 first-published: 2015-04-27
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: LPIC-2 Revision
-Description: A list of topics to revise before the LPIC-2 exam.
+description: A list of topics to revise before the LPIC-2 exam.
 first-published: 2014-08-10
 ---
 

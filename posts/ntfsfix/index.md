@@ -1,7 +1,7 @@
 ---
 language: el
 title: ntfsfix
-Description: Σημειώσεις για το πρόγραμμα ntfsfix
+description: Σημειώσεις για το πρόγραμμα ntfsfix
 Author: Marios Zindilis
 first-published: 2011-07-05
 ---

@@ -1,7 +1,7 @@
 ---
 title: switchport port-security
 language: el
-Description: Σημειώσεις για την εντολή switchport port-security σε συσκευές Cisco
+description: Σημειώσεις για την εντολή switchport port-security σε συσκευές Cisco
 first-published: 2011-09-28
 ---
 

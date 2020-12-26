@@ -1,7 +1,7 @@
 ---
 title: switchport trunk encapsulation dot1q
 language: el
-Description: Σημειώσεις για την εντολή switchport trunk encapsulation dot1q σε συσκευές Cisco
+description: Σημειώσεις για την εντολή switchport trunk encapsulation dot1q σε συσκευές Cisco
 first-published: 2011-09-29
 ---
 

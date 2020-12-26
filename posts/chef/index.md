@@ -1,6 +1,6 @@
 ---
 title: Chef
-Description: Chef Orchestration and Configuration Management
+description: Chef Orchestration and Configuration Management
 first-published: 2013-11-27
 last-modified: 2014-11-01
 ---

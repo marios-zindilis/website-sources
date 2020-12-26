@@ -1,6 +1,6 @@
 ---
 title: tcptrack
-Description: tcptrack displays active network connections
+description: tcptrack displays active network connections
 first-published: 2013-11-15
 ---
 

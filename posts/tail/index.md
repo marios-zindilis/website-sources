@@ -1,6 +1,6 @@
 ---
 title: tail
-Description: Notes on the 'tail' command
+description: Notes on the 'tail' command
 first-published: 2014-04-05
 ---
 

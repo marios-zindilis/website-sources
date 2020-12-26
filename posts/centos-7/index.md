@@ -1,6 +1,6 @@
 ---
 title: CentOS 7
-Description: Notes and links on CentOS 7
+description: Notes and links on CentOS 7
 first-published: 2014-07-12
 ---
 

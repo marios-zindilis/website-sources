@@ -1,7 +1,7 @@
 ---
 language: el
 title: rpm
-Description: Σημειώσεις για το πρόγραμμα rpm
+description: Σημειώσεις για το πρόγραμμα rpm
 Author: Marios Zindilis
 first-published: 2012-02-16
 ---

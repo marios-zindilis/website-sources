@@ -1,6 +1,6 @@
 ---
 title: Web Application Firewalls
-Description: Links and notes on web application firewalls
+description: Links and notes on web application firewalls
 first-published: 2015-09-20
 ---
 

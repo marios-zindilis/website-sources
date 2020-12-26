@@ -1,6 +1,6 @@
 ---
 title: Flowchart and Diagram Editors
-Description: Flowchart and Diagram Editors
+description: Flowchart and Diagram Editors
 first-published: 2013-11-24
 last-modified: 2014-09-17
 ---

@@ -1,6 +1,6 @@
 ---
 title: Display IP Address in /etc/issue on CentOS
-Description: How to display the IP address on CentOS by automatically populating /etc/issue
+description: How to display the IP address on CentOS by automatically populating /etc/issue
 first-published: 2013-11-09
 ---
 

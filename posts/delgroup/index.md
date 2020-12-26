@@ -1,7 +1,7 @@
 ---
 language: el
 title: delgroup
-Description: Σημειώσεις για την εντολή delgroup
+description: Σημειώσεις για την εντολή delgroup
 Author: Marios Zindilis
 first-published: 2011-07-06
 last-modified: 2016-11-06

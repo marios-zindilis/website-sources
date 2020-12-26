@@ -1,6 +1,6 @@
 ---
 title: OSQuery
-Description: Notes and links on OSQuery
+description: Notes and links on OSQuery
 first-published: 2015-04-09
 ---
 

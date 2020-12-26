@@ -1,6 +1,6 @@
 ---
 title: Champions of Regnum
-Description: Free to play MMORPG Champions of Regnum
+description: Free to play MMORPG Champions of Regnum
 first-published: 2013-12-01
 ---
 

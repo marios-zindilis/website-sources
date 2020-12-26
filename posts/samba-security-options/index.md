@@ -1,6 +1,6 @@
 ---
 title: Samba security Options
-Description: Options for the security setting of Samba
+description: Options for the security setting of Samba
 first-published: 2013-10-25
 last-modified: 2013-11-23
 ---

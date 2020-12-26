@@ -1,6 +1,6 @@
 ---
 title: TimeShift
-Description: Notes and links on the TimeShift backup tool
+description: Notes and links on the TimeShift backup tool
 first-published: 2014-07-12
 ---
 

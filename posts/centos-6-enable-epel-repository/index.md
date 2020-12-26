@@ -1,6 +1,6 @@
 ---
 title: Enable EPEL Repository on CentOS 6
-Description: How to enable the EPEL repository on CentOS 6
+description: How to enable the EPEL repository on CentOS 6
 first-published: 2013-12-19
 ---
 

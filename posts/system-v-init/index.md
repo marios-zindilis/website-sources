@@ -1,6 +1,6 @@
 ---
 title: System V init
-Description: Notes on System V init
+description: Notes on System V init
 first-published: 2014-02-27
 ---
 

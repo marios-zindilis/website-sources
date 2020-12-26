@@ -1,6 +1,6 @@
 ---
 title: syslog
-Description: syslog
+description: syslog
 first-published: 2013-12-31
 ---
 

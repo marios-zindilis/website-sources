@@ -1,7 +1,7 @@
 ---
 title: mac-address-table aging-time
 language: el
-Description: Σημειώσεις για την εντολή mac-address-table aging-time σε συσκευές Cisco
+description: Σημειώσεις για την εντολή mac-address-table aging-time σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2011-06-18
 ---

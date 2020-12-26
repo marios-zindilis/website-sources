@@ -1,6 +1,7 @@
 ---
 title: "Καινούριο κοσκινάκι: Dell Inspiron N5010"
 first-published: 2011-03-28
+description: Περιγραφή υλικού hardware και εγκατάσταση Ubuntu σε φορητό υπολογιστή Dell Inspiron N5010
 ---
 
 Πήρα το <a href="http://www.eshopcy.com.cy/show.phtml?id=PER.902013">Dell Inspiron N5010</a>. Σε αυτό το άρθρο

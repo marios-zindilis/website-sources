@@ -1,6 +1,6 @@
 ---
 title: Installation of syslog-ng on CentOS 6
-Description: How to install syslog-ng on CentOS 6
+description: How to install syslog-ng on CentOS 6
 first-published: 2014-03-11
 ---
 

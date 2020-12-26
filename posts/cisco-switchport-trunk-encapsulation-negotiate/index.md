@@ -1,7 +1,7 @@
 ---
 title: switchport trunk encapsulation negotiate
 language: el
-Description: Σημειώσεις για την εντολή switchport trunk encapsulation negotiate σε συσκευές Cisco
+description: Σημειώσεις για την εντολή switchport trunk encapsulation negotiate σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2011-09-29
 ---

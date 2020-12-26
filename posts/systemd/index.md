@@ -1,6 +1,6 @@
 ---
 title: systemd
-Description: Notes on systemd
+description: Notes on systemd
 first-published: 2014-02-27
 last-modified: 2014-07-30
 ---

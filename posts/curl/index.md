@@ -1,6 +1,6 @@
 ---
 title: curl
-Description: Notes and links on curl
+description: Notes and links on curl
 first-published: 2014-03-09
 last-modified: 2015-10-18
 ---

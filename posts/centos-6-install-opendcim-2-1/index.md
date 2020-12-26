@@ -1,6 +1,6 @@
 ---
 title: openDCIM 2.1 Installation on Centos 6
-Description: How to install openDCIM 2.1 on CentOS 6.x
+description: How to install openDCIM 2.1 on CentOS 6.x
 first-published: 2013-05-25
 last-modified: 2015-03-26
 ---

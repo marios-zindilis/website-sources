@@ -1,6 +1,6 @@
 ---
 title: Add a hard disk on a CentOS 6 system
-Description: How to add an new hard disk on an existing CentOS 6 system
+description: How to add an new hard disk on an existing CentOS 6 system
 first-published: 2013-11-02
 last-modified: 2015-07-25
 ---

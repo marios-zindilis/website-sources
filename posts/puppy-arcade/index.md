@@ -1,6 +1,6 @@
 ---
 title: Puppy Arcade
-Description: Notes and links on the Puppy Arcade distribution
+description: Notes and links on the Puppy Arcade distribution
 first-published: 2014-03-08
 ---
 

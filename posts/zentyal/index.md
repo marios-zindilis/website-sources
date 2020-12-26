@@ -1,6 +1,6 @@
 ---
 title: Zentyal
-Description: Notes and links on Zentyal
+description: Notes and links on Zentyal
 first-published: 2014-04-09
 last-modified: 2014-10-16
 ---

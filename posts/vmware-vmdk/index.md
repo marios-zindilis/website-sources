@@ -1,6 +1,6 @@
 ---
 title: VMware VMDK File Format
-Description: Notes and links on the VMDK file format
+description: Notes and links on the VMDK file format
 first-published: 2014-06-12
 ---
 

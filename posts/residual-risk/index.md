@@ -1,6 +1,6 @@
 ---
 title: Residual Risk
-Description: Notes and links on Residual Risk
+description: Notes and links on Residual Risk
 first-published: 2015-09-20
 ---
 

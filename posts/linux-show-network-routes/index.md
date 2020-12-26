@@ -1,6 +1,6 @@
 ---
 title: Display network routes on Linux
-Description: How to view network routes on Linux
+description: How to view network routes on Linux
 first-published: 2013-11-17
 ---
 

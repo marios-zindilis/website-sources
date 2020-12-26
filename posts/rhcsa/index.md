@@ -1,6 +1,6 @@
 ---
 title: RHCSA Notes and Links
-Description: Notes and links for the RHCSA certification
+description: Notes and links for the RHCSA certification
 first-published: 2014-02-28
 last-modified: 2014-04-20
 ---

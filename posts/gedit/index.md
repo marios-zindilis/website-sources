@@ -1,6 +1,6 @@
 ---
 title: gedit
-Description: The gedit text file editor
+description: The gedit text file editor
 first-published: 2013-11-19
 last-modified: 2014-03-16
 ---

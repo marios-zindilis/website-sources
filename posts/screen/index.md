@@ -1,6 +1,6 @@
 ---
 title: screen
-Description: Notes and links for screen
+description: Notes and links for screen
 first-published: 2013-12-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Clone a remote repository with GitPython
-Description: How to clone a remote repository using GitPython
+description: How to clone a remote repository using GitPython
 first-published: 2015-02-08
 ---
 

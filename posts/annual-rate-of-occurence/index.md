@@ -1,6 +1,6 @@
 ---
 title: Annual Rate of Occurrence
-Description: Notes and links on Annual Rate of Occurrence
+description: Notes and links on Annual Rate of Occurrence
 first-published: 2015-09-20
 ---
 

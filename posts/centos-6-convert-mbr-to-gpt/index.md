@@ -1,6 +1,6 @@
 ---
 title: Convert MBR Partition Table to GPT on CentOS 6
-Description: How to use gdisk to convert MBR to GPT on CentOS 6
+description: How to use gdisk to convert MBR to GPT on CentOS 6
 first-published: 2013-11-06
 last-modified: 2013-11-23
 ---

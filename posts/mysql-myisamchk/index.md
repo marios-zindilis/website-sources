@@ -1,6 +1,6 @@
 ---
 title: myisamchk
-Description: Notes and links on the myisamchk database table repair utility
+description: Notes and links on the myisamchk database table repair utility
 first-published: 2014-03-16
 ---
 

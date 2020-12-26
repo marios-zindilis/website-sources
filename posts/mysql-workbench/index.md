@@ -1,6 +1,6 @@
 ---
 title: MySQL Workbench
-Description: Notes and links on MySQL Workbench
+description: Notes and links on MySQL Workbench
 first-published: 2014-03-08
 tags:
 - MySQL

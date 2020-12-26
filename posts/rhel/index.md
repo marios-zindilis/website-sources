@@ -1,6 +1,6 @@
 ---
 title: RHEL
-Description: Notes on RedHat Enterprise Linux
+description: Notes on RedHat Enterprise Linux
 first-published: 2014-01-02
 last-modified: 2014-04-05
 ---

@@ -1,7 +1,7 @@
 ---
 language: el
 title: yum
-Description: Σημειώσεις για την εντολή yum
+description: Σημειώσεις για την εντολή yum
 first-published: 2012-02-12
 ---
 

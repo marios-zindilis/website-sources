@@ -1,6 +1,6 @@
 ---
 title: Skip one record on MySQL replication slave
-Description: A quick and dirty way to resume broken MySQL replication
+description: A quick and dirty way to resume broken MySQL replication
 first-published: 2013-11-26
 Last Updated: 2013-11-26
 ---

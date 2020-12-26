@@ -1,6 +1,6 @@
 ---
 title: RANCID
-Description: Notes and links on RANCID
+description: Notes and links on RANCID
 first-published: 2014-06-11
 ---
 

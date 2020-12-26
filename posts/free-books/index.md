@@ -1,6 +1,6 @@
 ---
 title: Links to free books
-Description: A list of links to free books
+description: A list of links to free books
 first-published: 2013-11-03
 last-modified: 2014-12-18
 ---

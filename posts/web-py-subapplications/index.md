@@ -1,6 +1,6 @@
 ---
 title: web.py Subapplications
-Description: Notes and links on web.py subapplications
+description: Notes and links on web.py subapplications
 first-published: 2014-04-22
 ---
 

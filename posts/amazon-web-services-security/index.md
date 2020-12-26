@@ -1,6 +1,6 @@
 ---
 title: Amazon Web Services Security 
-Description: Notes and links on security matters on AWS
+description: Notes and links on security matters on AWS
 first-published: 2015-07-30
 Last Updated: 2015-12-24
 ---

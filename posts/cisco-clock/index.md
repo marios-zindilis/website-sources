@@ -1,6 +1,6 @@
 ---
 title: "Cisco: clock"
-Description: Notes on the 'clock' command on Cisco devices
+description: Notes on the 'clock' command on Cisco devices
 Author: Marios Zindilis
 first-published: 2013-12-29
 ---

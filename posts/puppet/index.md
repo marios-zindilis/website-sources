@@ -1,6 +1,6 @@
 ---
 title: Puppet
-Description: Puppet Orchestration and Configuration Management
+description: Puppet Orchestration and Configuration Management
 first-published: 2013-11-27
 last-modified: 2015-01-15
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ghost 
-Description: Collection of links for the GHOST vulnerability on Glibc
+description: Collection of links for the GHOST vulnerability on Glibc
 first-published: 2015-02-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: FTP and ftp
-Description: Notes on the FTP protocol and the ftp utility
+description: Notes on the FTP protocol and the ftp utility
 first-published: 2014-01-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: procmail
-Description: Notes on procmail mail filter
+description: Notes on procmail mail filter
 first-published: 2013-12-31
 ---
 

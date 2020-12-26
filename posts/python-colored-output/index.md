@@ -1,6 +1,6 @@
 ---
 title: Colored output with Python
-Description: How to get colored text output from Python
+description: How to get colored text output from Python
 first-published: 2013-11-26
 last-modified: 2016-11-07
 ---

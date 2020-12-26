@@ -1,6 +1,6 @@
 ---
 title: Enable logging in MySQL
-Description: How to enable different types of logging in MySQL
+description: How to enable different types of logging in MySQL
 first-published: 2013-12-07
 Last Updated: 2014-09-17
 ---

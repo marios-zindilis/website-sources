@@ -1,6 +1,6 @@
 ---
 title: Inkscape
-Description: Notes and links on Inkscape
+description: Notes and links on Inkscape
 first-published: 2015-04-09
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: VMware Acronyms
-Description: A list of VMware-related acronyms
+description: A list of VMware-related acronyms
 first-published: 2014-06-11
 ---
 

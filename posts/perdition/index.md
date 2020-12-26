@@ -1,6 +1,6 @@
 ---
 title: Perdition
-Description: Notes on the Perdition IMAP and POP3 proxy
+description: Notes on the Perdition IMAP and POP3 proxy
 first-published: 2013-12-24
 ---
 

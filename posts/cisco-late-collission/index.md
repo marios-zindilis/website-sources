@@ -1,7 +1,7 @@
 ---
 title: late collision σε συσκευές Cisco
 language: el
-Description: Σημειώσεις για τα late collision σε συσκευές Cisco
+description: Σημειώσεις για τα late collision σε συσκευές Cisco
 Author: Marios Zindilis
 first-published: 2012-05-10
 ---

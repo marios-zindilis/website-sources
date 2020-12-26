@@ -1,6 +1,6 @@
 ---
 title: xargs
-Description: Notes on 'xargs' command
+description: Notes on 'xargs' command
 first-published: 2013-12-27
 ---
 

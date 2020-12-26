@@ -1,6 +1,6 @@
 ---
 title: Faraday Integrated Penetration-Test Environment
-Description: Notes and links on the Faraday Integrated Penetration-Test Environment
+description: Notes and links on the Faraday Integrated Penetration-Test Environment
 first-published: 2015-03-22
 ---
 

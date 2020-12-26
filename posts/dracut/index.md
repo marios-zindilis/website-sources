@@ -1,6 +1,6 @@
 ---
 title: dracut
-Description: Notes and links on dracut
+description: Notes and links on dracut
 first-published: 2014-07-13
 ---
 
