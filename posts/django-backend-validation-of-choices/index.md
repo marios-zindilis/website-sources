@@ -1,6 +1,6 @@
 ---
 title: Back-end Validation for Django Model Field Choices
-desciption: How to validate that a field value is within a list of choices in Django
+description: How to validate that a field value is within a list of choices in Django
 first-published: 2017-05-04
 tags:
 - django

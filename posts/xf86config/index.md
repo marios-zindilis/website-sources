@@ -2,6 +2,7 @@
 language: el
 title: xf86config
 first-published: 2012-04-04
+description: Σημειώσεις για το εργαλείο xf86config
 ---
 
 Το `xf86config` είναι ένα βοηθητικό εργαλείο για την αρχική ρύθμιση του εξυπηρετητή γραφικών

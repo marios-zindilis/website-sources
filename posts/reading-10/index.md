@@ -2,6 +2,7 @@
 title: "Reading #10"
 Author: Marios Zindilis
 first-published: 2011-07-21
+description: Content worth reading for 2011-07-21
 ---
 
 <h3>Linux</h3>

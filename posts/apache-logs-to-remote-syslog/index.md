@@ -1,6 +1,7 @@
 ---
 title: Send Apache logs to remote syslog server
 first-published: 2014-02-11
+description: How to send logs from Apache to a remote server
 ---
 
 This document briefly describes how to send the logs from Apache to 

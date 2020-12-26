@@ -1,6 +1,7 @@
 ---
 title: HP MSA2040
 first-published: 2013-12-19
+description: Notes on the HP MSA2040 appliance
 ---
 
 Specs

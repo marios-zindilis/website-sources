@@ -2,6 +2,7 @@
 language: el
 title: Εγκατάσταση Apache, MySQL και PHP σε Fedora 16
 first-published: 2012-01-31
+description: Βήμα προς βήμα η εγκατάσταση της στοίβας λογισμικού LAMP σε Fedora 16
 ---
 
 Βήματα για εγκατάσταση της στοίβας λογισμικού LAMP σε Fedora 16.

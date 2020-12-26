@@ -2,6 +2,7 @@
 title: "Reading #5"
 Author: Marios Zindilis
 first-published: 2011-03-27
+description: Content worth reading for 2011-03-27
 ---
 
 Today's reading material.

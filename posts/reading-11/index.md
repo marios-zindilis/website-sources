@@ -2,6 +2,7 @@
 title: "Reading #11"
 Author: Marios Zindilis
 first-published: 2011-07-31
+description: Content worth reading for 2011-07-31
 ---
 
 Weekend: reading time. Here are some suggestions:

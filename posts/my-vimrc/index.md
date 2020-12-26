@@ -1,6 +1,7 @@
 ---
 title: My .vimrc
 first-published: 2020-12-15
+description: My personal Vim configuration
 tags:
 - Vim
 ---

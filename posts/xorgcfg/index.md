@@ -2,6 +2,7 @@
 language: el
 title: xorgcfg
 first-published: 2012-04-04
+description: Σημειώσεις για το εργαλείο xorgcfg
 ---
 
 Το εργαλείο `xorgcfg` είναι ένα βοήθημα γραφικού περιβάλλοντος για την παραμετροποίηση του

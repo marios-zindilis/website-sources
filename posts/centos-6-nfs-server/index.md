@@ -1,6 +1,7 @@
 ---
 title: Set up CentOS 6 as NFS Server
 first-published: 2014-07-09
+description: How to set up a minimal NFS server on CentOS 6
 ---
 
 These are minimal instructions on how to set up an NFS server running on 

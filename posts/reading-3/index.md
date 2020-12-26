@@ -1,6 +1,7 @@
 ---
 title: "Reading #3"
 first-published: 2011-03-10
+description: Content worth reading for 2011-03-10
 ---
 
 Security is a dish best served from insiders.

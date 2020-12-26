@@ -3,6 +3,7 @@ title: "Reading #12"
 Author: Marios Zindilis
 first-published: 2011-08-18
 last-modified: 2015-01-26
+description: Content worth reading for 2011-08-18
 ---
 
 Reading material.

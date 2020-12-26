@@ -3,6 +3,7 @@ title: Fedora Ask in Greek
 Author: Marios Zindilis
 first-published: 2014-01-24
 last-modified: 2014-01-26
+description: Fedora Ask is available in Greek
 ---
 
 With the noble efforts of the members of the [Greek Fedora community](http://el.fedoracommunity.org/), the Ask Fedora

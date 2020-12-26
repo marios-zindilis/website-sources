@@ -1,6 +1,7 @@
 ---
 title: sudo
 first-published: 2014-03-19
+description: Notes on sudo
 ---
 
 

@@ -3,6 +3,7 @@ title: "Linux Professional Institute Certification 2 (LPIC-2)"
 Summary: A list of notes and links for LPIC-2
 first-published: 2014-08-10
 last-modified: 2015-03-26
+description: Notes in the LPIC-2 certification
 ---
 
 LPI changed the objectives of LPIC-2, with the new ones available from November 1st, 2013, see:

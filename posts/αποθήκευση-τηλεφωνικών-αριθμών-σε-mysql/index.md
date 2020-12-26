@@ -1,5 +1,6 @@
 ---
 title: Αποθήκευση τηλεφωνικών αριθμών σε MySQL
+description: Πώς να αποθηκεύσετε τηλεφωνικούς αριθμούς στην βάση δεδομένων MySQL
 Author: Marios Zindilis
 first-published: 2011-03-16
 tags:

@@ -2,6 +2,7 @@
 title: "Reading #7"
 Author: Marios Zindilis
 first-published: 2011-04-01
+description: Content worth reading for 2011-04-01
 ---
 
 These "reading" posts are doomed to scarcity after I return to work in a couple of weeks. I will miss the time to actually read interesting articles that come my way, instead of stacking them in the to-read bookmarks list. I have to note that some half of today's links come from <a href="http://slashdot.org">Slashdot</a>.

@@ -3,6 +3,7 @@ title: "Ενδιαφέροντες σύνδεσμοι (2011, εβδ#39)"
 Author: Marios Zindilis
 first-published: 2011-10-01
 last-modified: 2015-03-26
+description: Content worth reading for 2011-10-01
 ---
 
 Interesting links.

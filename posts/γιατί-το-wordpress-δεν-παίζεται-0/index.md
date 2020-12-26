@@ -2,6 +2,7 @@
 title: "Γιατί το WordPress δεν παίζεται (#0)"
 Author: Marios Zindilis
 first-published: 2011-03-12
+description: Εμφάνιση περιεχομένου μόνο σε συνδεδεμένους χρήστες στο WordPress
 ---
 
 Το WordPress δεν παίζεται! Για πολλούς λόγους, αλλά να ένας συγκεκριμένος.

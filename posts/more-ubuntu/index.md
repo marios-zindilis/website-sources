@@ -1,6 +1,7 @@
 ---
 title: More Ubuntu
 first-published: 2011-02-26
+description: Notes and thoughts on the latest changes in Ubuntu
 ---
 
 I 've been doing some Ubuntu-related reading, and I have to say my faith is shaken. I have been a user of Ubuntu for

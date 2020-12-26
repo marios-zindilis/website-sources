@@ -1,6 +1,7 @@
 ---
 title: How to create a large MySQL database for tests
 first-published: 2012-11-13
+description: A simple method for creating a large test database in MySQL
 ---
 
 I wanted to create a fairly big MySQL database (~30GB on disk) for 

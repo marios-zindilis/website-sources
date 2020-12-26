@@ -1,6 +1,7 @@
 ---
 title: "Reading #4"
 first-published: 2011-03-23
+description: Content worth reading for 2011-03-23
 ---
 
 Day off, got to strike out some of the items in the to-read list.

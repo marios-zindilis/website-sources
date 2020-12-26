@@ -1,6 +1,7 @@
 ---
 title: exportfs
 first-published: 2013-12-27
+description: Notes on the exportfs tool
 ---
 
 `exportfs` is a helper utility for managing an NFS server.

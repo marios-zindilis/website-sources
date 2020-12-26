@@ -2,6 +2,7 @@
 title: Hello, World!
 first-published: 2011-02-25
 last-modified: 2014-07-26
+description: Content worth reading for 2011-02-25
 ---
 
 Having the day off today, I got to catch up with some reading that was in the 

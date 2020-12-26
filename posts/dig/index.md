@@ -1,6 +1,7 @@
 ---
 title: dig
 first-published: 2015-09-20
+description: Notes on the dig tool
 ---
 
 *   [Making Full Use Of `dig` In Linux][1]

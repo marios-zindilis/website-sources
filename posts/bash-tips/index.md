@@ -3,6 +3,7 @@ title: Bash tips
 Author: Marios Zindilis
 first-published: 2012-04-04
 last-modified: 2014-01-26
+description: Δύο σύντομες συμβουλές σχετικές με σειρές αριθμών στο τερματικό Bash
 ---
 
 Δύο μικρά tips.

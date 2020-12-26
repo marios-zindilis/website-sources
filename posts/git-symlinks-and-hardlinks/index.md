@@ -2,6 +2,7 @@
 title: Git, symlinks και hardlinks
 Author: Marios Zindilis
 first-published: 2011-04-23
+description: Σημειώσεις για την συμπεριφορά του Git σε σχέση με τα symlinks και τα hardlinks
 ---
 
 <strong>Γρήγορη συμβουλή για το Git</strong>: Ήθελα να συμπεριλάβω σε ένα 

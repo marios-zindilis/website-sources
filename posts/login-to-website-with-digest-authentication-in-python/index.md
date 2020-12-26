@@ -1,5 +1,6 @@
 ---
 title: Login in to website with Digest authentication in Python
+description: How to log in to a website that uses digest authentication with Python
 Author: Marios Zindilis
 first-published: 2012-08-15
 tags:

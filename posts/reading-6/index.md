@@ -2,6 +2,7 @@
 title: "Reading #6"
 Author: Marios Zindilis
 first-published: 2011-03-30
+description: Content worth reading for 2011-03-30
 ---
 
 Today's reading recommendations.

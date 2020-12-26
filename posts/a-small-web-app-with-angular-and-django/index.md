@@ -1,6 +1,6 @@
 ---
 title: A small web application with Angular5 and Django
-desciption: A small proof-of-concept web app using Angular5, Bootstrap, Django and the Django Rest Framework.
+description: A small proof-of-concept web app using Angular5, Bootstrap, Django and the Django Rest Framework.
 first-published: 2018-04-06
 tags:
 - Django

@@ -1,10 +1,10 @@
 ---
 title: Linux Mint 15 Installation on Lenovo G505s
 first-published: 2013-10-10
+description: My personal preferences for setting up Linux Mint on a Lenovo G505s laptop
 ---
 
-This document contains a few tips for installing Linux Mint 15 on a 
-Lenovo G505s laptop.
+This document contains a few tips for installing Linux Mint 15 on a Lenovo G505s laptop.
 
 Here is a list of hardware components that work out of the box:
 

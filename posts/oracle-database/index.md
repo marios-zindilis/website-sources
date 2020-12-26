@@ -1,6 +1,7 @@
 ---
 title: Oracle Database
 first-published: 2014-10-04
+description: Notes on the Oracle database
 ---
 
 *   [Setting Up Prerequisites for Oracle 12c Installation in RHEL/CentOS/Oracle Linux 6.5 – Part I](http://www.tecmint.com/setting-up-prerequisites-for-oracle-12c-installation/)

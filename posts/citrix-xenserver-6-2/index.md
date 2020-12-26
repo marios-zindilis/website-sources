@@ -2,6 +2,7 @@
 title: Citrix XenServer 6.2
 first-published: 2013-12-27
 last-modified: 2014-08-08
+description: Notes on the 6.2 version of XenServer
 ---
 
 Deprecated Features

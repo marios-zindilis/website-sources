@@ -1,6 +1,7 @@
 ---
 title: Mount an NTFS disk in Ubuntu
 first-published: 2020-12-17
+description: My fstab entry for permanently mounting an NTFS drive on Ubuntu
 ---
 
 On a system that dual boots Windows and Ubuntu, I use this line in `/etc/fstab` to have the NTFS Windows disk mounted

@@ -2,6 +2,7 @@
 title: Running multiple instances of Thunderbird
 Author: Marios Zindilis
 first-published: 2012-09-09
+description: How to run multiple instances of Thunderbird with different profiles
 ---
 
 You can run multiple instances of Thunderbird with different user profiles for each instance, by launching it from command line as:

@@ -2,6 +2,7 @@
 language: el
 title: LNX-BBC
 first-published: 2012-04-17
+description: Notes on the LNX-BBC Linux distribution
 ---
 
 Η διανομή **LNX-BBC**, προηγουμένως γνωστή ως BBC Linux, ήταν μια 

@@ -2,6 +2,7 @@
 title: Accelerated-X
 first-published: 2012-04-04
 language: el
+description: Σημειώσεις για τον εξυπηρετητή γραφικών Accelerated-X
 ---
 
 Ο εξυπηρετητής γραφικών **Accelerated-X** είναι μια κλειστού κώδικα 

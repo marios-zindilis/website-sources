@@ -2,6 +2,7 @@
 title: MediaWiki upgrade to 1.19.0 regression
 Author: Marios Zindilis
 first-published: 2012-05-11
+description: How to work around a regression in the 1.19.0 version of MediaWiki
 ---
 
 Upgrade from an earlier version to 1.19.0 breaks some installations, with error:

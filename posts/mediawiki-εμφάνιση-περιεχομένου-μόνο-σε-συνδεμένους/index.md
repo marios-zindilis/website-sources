@@ -2,6 +2,7 @@
 title: "MediaWiki: Εμφάνιση περιεχομένου μόνο σε συνδεδεμένους χρήστες"
 Author: Marios Zindilis
 first-published: 2011-06-04
+description: Εμφάνιση περιεχομένου μόνο σε συνδεδεμένους χρήστες στο MediaWiki
 ---
 
 Κατά τη δημιουργία ή επεξεργασία οπτικού θέματος για το MediaWiki, 

@@ -1,6 +1,7 @@
 ---
 title: "Reading #2"
 first-published: 2011-03-05
+description: Content worth reading for 2011-03-05
 ---
 
 Selected reading, on taking work at home...
