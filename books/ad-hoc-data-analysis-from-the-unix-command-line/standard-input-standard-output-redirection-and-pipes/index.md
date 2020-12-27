@@ -3,6 +3,7 @@ first-published: 2016-11-13
 editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Standard Input, Standard Output, Redirection and Pipes
+description: Basic usage of tr, grep, cat with standard input, standard output and pipes
 ---
 
 > "This is the Unix philosophy: Write programs that do one thing and do it 

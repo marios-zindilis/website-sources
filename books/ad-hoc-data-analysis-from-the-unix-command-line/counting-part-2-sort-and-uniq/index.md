@@ -3,6 +3,7 @@ editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Counting Part 2 - sort and uniq
 first-published: 2016-11-13
+description: Counting string occurrences with sort and uniq
 ---
 
 So far we've seen how to use `cut`, `grep` and `wc` to select and count records 

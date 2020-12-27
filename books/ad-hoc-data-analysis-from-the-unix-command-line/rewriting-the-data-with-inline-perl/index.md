@@ -3,6 +3,7 @@ first-published: 2016-11-13
 editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Rewriting The Data With Inline perl
+description: Using perl on the command line to process text
 ---
 
 > "I'm reminded of the day my daughter came in, looked over my shoulder at some 

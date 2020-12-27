@@ -3,6 +3,7 @@ editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Appendices
 first-published: 2016-11-13
+description: Appendices to the book Ad hoc data analysis from the unix command line
 ---
 
 ## Appendix A: pcalc source code ##

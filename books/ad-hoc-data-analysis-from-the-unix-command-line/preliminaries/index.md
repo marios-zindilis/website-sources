@@ -4,6 +4,7 @@ editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Preliminaries
 first-published: 2016-11-13
+description: Some basics before starting ad hoc data analysis with command line tools
 ---
 
 <p class="lead">

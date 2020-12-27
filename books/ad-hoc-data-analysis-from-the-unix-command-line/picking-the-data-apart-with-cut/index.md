@@ -3,6 +3,7 @@ editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Picking The Data Apart With cut
 first-published: 2016-11-13
+description: Using cut on the command line to separate columns of data
 ---
 
 ## Fixed width data ##

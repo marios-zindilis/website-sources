@@ -3,6 +3,7 @@ first-published: 2016-11-13
 editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Joining The Data with join
+description: Using join on the command line to create a union of two data files
 ---
 
 **Please note**: `join` assumes that that input data is sorted based on the key 

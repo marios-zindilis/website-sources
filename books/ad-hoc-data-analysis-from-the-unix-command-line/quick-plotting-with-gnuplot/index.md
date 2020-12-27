@@ -3,6 +3,7 @@ editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Quick Plotting With gnuplot
 first-published: 2016-11-13
+description: Using gnuplot on the command line to create plots of data
 ---
 
 ## Example - creating a scatter plot ##

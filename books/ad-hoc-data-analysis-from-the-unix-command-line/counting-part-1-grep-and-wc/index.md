@@ -3,6 +3,7 @@ editor: Marios Zindilis
 license: CC-BY-SA-3.0
 title: Counting Part 1 - grep and wc
 first-published: 2016-11-13
+description: Counting lines and string occurrences with grep and wc
 ---
 
 > "90% of data analysis is counting" - John Rauser
