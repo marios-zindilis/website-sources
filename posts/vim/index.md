@@ -1,8 +1,10 @@
 ---
 title: Vim
-description: Notes on the Vim text editor
 first-published: 2013-12-24
 last-modified: 2015-10-23
+tags:
+- Vim
+description: Notes on the Vim text editor
 ---
 
 Random notes on Vim:

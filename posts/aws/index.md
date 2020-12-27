@@ -1,6 +1,7 @@
 ---
 title: AWS
 first-published: 2016-12-16
+description: Notes on Amazon Web Services
 ---
 
 ## Non-Certification Training ##
